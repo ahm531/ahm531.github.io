@@ -1,0 +1,16 @@
+ {
+	"responsive": true,
+	"tmpSocialIconFont": true,
+	"enableEditorJS": true,
+	"description": "Aroma features professional design and elegant color palettes that give your brand a refined and worldly presence. With a search bar, phone number field and social iconography cleverly placed above your top navigation, your visitors will be able to connect with you easily. Aroma gives your website a sense of modern professionalism that will help your business grow.",
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"call-to-action",
+		"full-width-header",
+		"navigation-fixed",
+		"navigation-top",
+		"color-palettes"
+	]
+}

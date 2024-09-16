@@ -8,22 +8,21 @@
 </head>
 <body>
     <header>
-        <div class="container">
-            <h1>{{ site.title }}</h1>
-            <nav>
+            <h1>{{ AHM531 }}</h1>
+            <p>{{Welcome to my personal website}}</p>
+            <!--Navigation Bar-->
+            <nav class="navbar">
                 <ul>
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
-                    <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
-                    <!-- Add more links as needed -->
+                {% for items in site.navbar%}
+                    <li><a href="{{item.link}}">{{item.name}}</li>
+                    {% endfor %}
                 </ul>
             </nav>
-        </div>
     </header>
 
-    <div class="container">
+    <main>
         {{ content }}
-    </div>
+    </main>
 
 </body>
 </html>

@@ -5,10 +5,10 @@ title: Ahmed E. Mansour
 description: Personal website
 navbar:
 -name: Home
-  link:/index.html
+  link:/index.html/
 -name: Resume
-  link:/resume.html
--name: Research
+  link:/resume.html/
+-name: Research/
   link:/research.html
 -name: publications:
-  link:/contact.html
+  link:/contact.html/

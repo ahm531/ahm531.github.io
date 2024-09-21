@@ -4,3 +4,14 @@ plugins:
 
 title: Ahmed E. Mansour
 description: This is a personal webpage for Dr. Mansour
+
+# Navigation Bar Links
+navigation:
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /projects/
+  - name: "Publications"
+    link: /blog/
+  - name: "Research experience"
+    link: /about/

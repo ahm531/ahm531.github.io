@@ -9,9 +9,7 @@ description: This is a personal webpage for Dr. Mansour
 navigation:
   - name: "Home"
     link: /
-  - name: "Projects"
-    link: /projects/
   - name: "Publications"
     link: /blog/
-  - name: "Research experience"
+  - name: "Research_experience"
     link: /about/

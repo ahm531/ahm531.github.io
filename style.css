@@ -224,9 +224,11 @@ nav a:hover {
   background: #fff;
   padding: 1rem;
   border-radius: 0.5rem;
-  max-width: 600px;
+  max-width: 1500px;
   width: 90%;
   position: relative;
+  max-height: 80vh;
+  overflow-y: auto;
 }
 .modal-close {
   position: absolute;
@@ -238,7 +240,7 @@ nav a:hover {
   cursor: pointer;
 }
 .modal img {
-  max-width: 100%;
+  max-width: 30%;
   height: auto;
   margin-bottom: 1rem;
 }
@@ -364,4 +366,56 @@ nav a:hover {
 }
 .logo-nav a:hover img {
   transform: scale(1.1);
+}
+
+/* — Table of Contents panel — */
+#toc {
+  /* sit alongside your sidebar & content */
+  flex: 0 0 200px;
+  position: sticky;
+  top: 1rem;
+  align-self: flex-start;
+
+  /* make it scrollable if it’s taller than the viewport */
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+
+  /* visual treatment */
+  padding: 1rem;
+  border-left: 2px solid #eee;
+  background: #fafafa;
+}
+
+#toc h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
+#toc ul {
+  list-style: none;
+  padding: 0;
+}
+
+#toc li + li {
+  margin-top: 0.5rem;
+}
+
+#toc a {
+  text-decoration: none;
+  color: #333;
+  font-size: 0.9rem;
+  transition: color 0.2s ease;
+}
+
+#toc a:hover {
+  color: #007c70;
+}
+
+/* hide the TOC on small screens */
+@media (max-width: 800px) {
+  #toc {
+    display: none;
+  }
 }

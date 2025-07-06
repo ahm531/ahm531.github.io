@@ -1,0 +1,1014 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "MXenes for plasmonic photodetection",
+      "pub_year": 2019,
+      "citation": "Advanced Materials 31 (32), 1807658, 2019",
+      "author": "Dhinesh Babu Velusamy and Jehad K El‐Demellawi and Ahmed M El‐Zohry and Andrea Giugni and Sergei Lopatin and Mohamed N Hedhili and Ahmed E Mansour and Enzo Di Fabrizio and Omar F Mohammed and Husam N Alshareef",
+      "journal": "Advanced Materials",
+      "volume": "31",
+      "number": "32",
+      "pages": "1807658",
+      "abstract": "MXenes have recently shown impressive optical and plasmonic properties associated with their ultrathin‐atomic‐layer structure. However, their potential use in photonic and plasmonic devices has been only marginally explored. Photodetectors made of five different MXenes are fabricated, among which molybdenum carbide MXene (Mo2CTx) exhibits the best performance. Mo2CTx MXene thin films deposited on paper substrates exhibit broad photoresponse in the range of 400–800 nm with high responsivity (up to 9 A W−1), detectivity (≈5 × 1011 Jones), and reliable photoswitching characteristics at a wavelength of 660 nm. Spatially resolved electron energy‐loss spectroscopy and ultrafast femtosecond transient absorption spectroscopy of the MXene nanosheets reveal that the photoresponse of Mo2CTx is strongly dependent on its surface plasmon‐assisted hot carriers. Additionally, Mo2CTx thin‐film devices …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:MXK_kJrjxJIC",
+    "num_citations": 271,
+    "citedby_url": "/scholar?hl=en&cites=17850192751369705011",
+    "cites_id": [
+      "17850192751369705011"
+    ],
+    "pub_url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201807658",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:M9akpbufuPcJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 4,
+      "2020": 24,
+      "2021": 52,
+      "2022": 66,
+      "2023": 48,
+      "2024": 49,
+      "2025": 24
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Towards understanding the doping mechanism of organic semiconductors by Lewis acids",
+      "pub_year": 2019,
+      "citation": "Nature materials 18 (12), 1327-1334, 2019",
+      "author": "Brett Yurash and David Xi Cao and Viktor V Brus and Dirk Leifert and Ming Wang and Alana Dixon and Martin Seifrid and Ahmed E Mansour and Dominique Lungwitz and Tuo Liu and Peter J Santiago and Kenneth R Graham and Norbert Koch and Guillermo C Bazan and Thuc-Quyen Nguyen",
+      "journal": "Nature materials",
+      "volume": "18",
+      "number": "12",
+      "pages": "1327-1334",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "Precise doping of organic semiconductors allows control over the conductivity of these materials, an essential parameter in electronic applications. Although Lewis acids have recently shown promise as dopants for solution-processed polymers, their doping mechanism is not yet fully understood. In this study, we found that B(C6F5)3 is a superior dopant to the other Lewis acids investigated (BF3, BBr3 and AlCl3). Experiments indicate that Lewis acid–base adduct formation with polymers inhibits the doping process. Electron–nuclear double-resonance and nuclear magnetic resonance experiments, together with density functional theory, show that p-type doping occurs by generation of a water–Lewis acid complex with substantial Brønsted acidity, followed by protonation of the polymer backbone and electron transfer from a neutral chain segment to a positively charged, protonated one. This study provides insight …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:hqOjcs7Dif8C",
+    "num_citations": 200,
+    "citedby_url": "/scholar?hl=en&cites=2645083996581408363",
+    "cites_id": [
+      "2645083996581408363"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41563-019-0479-0",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ay5OceE5tSQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 2,
+      "2020": 24,
+      "2021": 37,
+      "2022": 52,
+      "2023": 41,
+      "2024": 29,
+      "2025": 15
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Environmental impact of the production of graphene oxide and reduced graphene oxide",
+      "pub_year": 2019,
+      "citation": "SN Applied Sciences 1 (2), 179, 2019",
+      "author": "Lucía Serrano-Lujan and Sandra Víctor-Román and Carlos Toledo and Olga Sanahuja-Parejo and Ahmed E Mansour and Jose Abad and Aram Amassian and Ana M Benito and Wolfgang K Maser and Antonio Urbina",
+      "journal": "SN Applied Sciences",
+      "volume": "1",
+      "number": "2",
+      "pages": "179",
+      "publisher": "Springer International Publishing",
+      "abstract": "Reduced graphene oxide (rGO) is widely seen as the most promising route for the low-cost mass production of graphene for many applications ranging from ultrathin electrodes to structural nanocomposites. The Hummers and Marcano methods are the two most successful approaches for producing high-performance rGO, but have been criticized for producing toxic emissions. We have applied life cycle assessment methodology to evaluate the environmental impacts of both production routes for GO and rGO in the context of applications requiring bulk materials or thin coatings. We find no current obstacle to the industrial scale production of graphene arising from its environmental impact. The cumulative energy demand is found to have a cap value between 20.7 and 68.5 GJ/Kg, a relatively high value; impact in other categories (such as human toxicity or resource depletion) is lower, and materials inventory …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:UebtZRa9Y70C",
+    "num_citations": 109,
+    "citedby_url": "/scholar?hl=en&cites=16488280833140946598",
+    "cites_id": [
+      "16488280833140946598"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s42452-019-0193-1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pnY_IA8k0uQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 2,
+      "2021": 10,
+      "2022": 19,
+      "2023": 26,
+      "2024": 31,
+      "2025": 19
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Conducting and stretchable PEDOT: PSS electrodes: role of additives on self-assembly, morphology, and transport",
+      "pub_year": 2019,
+      "citation": "ACS applied materials & interfaces 11 (19), 17570-17582, 2019",
+      "author": "Emilie Dauzon and Ahmed E Mansour and Muhammad R Niazi and Rahim Munir and Detlef-M Smilgies and Xavier Sallenave and Cedric Plesse and Fabrice Goubard and Aram Amassian",
+      "journal": "ACS applied materials & interfaces",
+      "volume": "11",
+      "number": "19",
+      "pages": "17570-17582",
+      "publisher": "American Chemical Society",
+      "abstract": "The addition of dimethylsulfoxide and Zonyl into poly(3,4-ethylenedioxythiophene):polystyrene sulfonate (PEDOT:PSS) can be combined to achieve excellent electrical, optical, and mechanical properties. We demonstrate that it is possible to produce highly transparent conducting electrodes (FoM > 35) with low Young’s modulus and high carrier density. We investigated the relationship between the transport properties of PEDOT:PSS and the morphology and microstructure of these films by performing Hall effect measurement, atomic force microscopy, and grazing incidence wide-angle X-ray scattering (GIWAXS). Our analysis reveals the distinctive impact of the two additives on the PEDOT and PSS components in the solid-state PEDOT:PSS films. Both additives induce fibrillar formation in the film, and the combination of the two additives only enhances the fibrillary nature and the aggregations of both PEDOT and …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:8k81kl-MbHgC",
+    "num_citations": 102,
+    "citedby_url": "/scholar?hl=en&cites=12439141954984526337",
+    "cites_id": [
+      "12439141954984526337"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsami.9b00934",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AcKC4bO1oKwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 14,
+      "2021": 21,
+      "2022": 14,
+      "2023": 22,
+      "2024": 26,
+      "2025": 5
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Quantitative analysis of doping-induced polarons and charge-transfer complexes of poly (3-hexylthiophene) in solution",
+      "pub_year": 2020,
+      "citation": "The Journal of Physical Chemistry B 124 (35), 7694-7708, 2020",
+      "author": "Malavika Arvind and Claudia E Tait and Michele Guerrini and Jannis Krumland and Ana M Valencia and Caterina Cocchi and Ahmed E Mansour and Norbert Koch and Stephen Barlow and Seth R Marder and Jan Behrends and Dieter Neher",
+      "journal": "The Journal of Physical Chemistry B",
+      "volume": "124",
+      "number": "35",
+      "pages": "7694-7708",
+      "publisher": "American Chemical Society",
+      "abstract": "The mechanism and the nature of the species formed by molecular doping of the model polymer poly(3-hexylthiophene) (P3HT) in its regioregular (rre-) and regiorandom (rra-) forms in solution are investigated for three different dopants: the prototypical π-electron acceptor 2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane (F4TCNQ), the strong Lewis acid tris(pentafluorophenyl)borane (BCF), and the strongly oxidizing complex molybdenum tris[1-(methoxycarbonyl)-2-(trifluoromethyl)ethane-1,2-dithiolene] (Mo(tfd-CO2Me)3). In a combined optical and electron paramagnetic resonance study, we show that the doping of rreP3HT in solution occurs by integer charge transfer, resulting in  formation of P3HT radical cations (polarons) for all of the dopants considered here. Remarkably, despite the different chemical nature of the dopants and dopant–polymer interaction, the formed polarons exhibit essentially identical …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:qxL8FJ1GzNcC",
+    "num_citations": 77,
+    "citedby_url": "/scholar?hl=en&cites=6484871565898684225",
+    "cites_id": [
+      "6484871565898684225"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c03517",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QRdss1Tk_lkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 1,
+      "2021": 13,
+      "2022": 21,
+      "2023": 22,
+      "2024": 12,
+      "2025": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Double charged surface layers in lead halide perovskite crystals",
+      "pub_year": 2017,
+      "citation": "Nano Letters 17 (3), 2021-2027, 2017",
+      "author": "Smritakshi P Sarmah and Victor M Burlakov and Emre Yengel and Banavoth Murali and Erkki Alarousu and Ahmed M El-Zohry and Chen Yang and Mohd S Alias and Ayan A Zhumekenov and Makhsud I Saidaminov and Namchul Cho and Nimer Wehbe and Somak Mitra and Idris Ajia and Sukumar Dey and Ahmed E Mansour and Maged Abdelsamie and Aram Amassian and Iman S Roqan and Boon S Ooi and Alain Goriely and Osman M Bakr and Omar F Mohammed",
+      "journal": "Nano Letters",
+      "volume": "17",
+      "number": "3",
+      "pages": "2021-2027",
+      "publisher": "American Chemical Society",
+      "abstract": "Understanding defect chemistry, particularly ion migration, and its significant effect on the surface’s optical and electronic properties is one of the major challenges impeding the development of hybrid perovskite-based devices. Here, using both experimental and theoretical approaches, we demonstrated that the surface layers of the perovskite crystals may acquire a high concentration of positively charged vacancies with the complementary negatively charged halide ions pushed to the surface. This charge separation near the surface generates an electric field that can induce an increase of optical band gap in the surface layers relative to the bulk. We found that the charge separation, electric field, and the amplitude of shift in the bandgap strongly depend on the halides and organic moieties of perovskite crystals. Our findings reveal the peculiarity of surface effects that are currently limiting the applications of …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:zYLM7Y9cAGgC",
+    "num_citations": 77,
+    "citedby_url": "/scholar?hl=en&cites=7224013814939812722",
+    "cites_id": [
+      "7224013814939812722"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b00031",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:coMATEraQGQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 14,
+      "2018": 14,
+      "2019": 11,
+      "2020": 16,
+      "2021": 4,
+      "2022": 7,
+      "2023": 6,
+      "2024": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Bromination of graphene: a new route to making high performance transparent conducting electrodes with low optical losses",
+      "pub_year": 2015,
+      "citation": "ACS applied materials & interfaces 7 (32), 17692-17699, 2015",
+      "author": "Ahmed E Mansour and Sukumar Dey and Aram Amassian and Minas H Tanielian",
+      "journal": "ACS applied materials & interfaces",
+      "volume": "7",
+      "number": "32",
+      "pages": "17692-17699",
+      "publisher": "American Chemical Society",
+      "abstract": "The unique optical and electrical properties of graphene have triggered great interest in its application as a transparent conducting electrode material and significant effort has been invested in achieving high conductivity while maintaining high transparency. Doping of graphene has been a popular route for reducing its sheet resistance, but this has typically come at a significant loss in optical transmittance. We demonstrate doping of few layers graphene (FLG) with bromine as a means of enhancing the conductivity via intercalation without major optical losses. Our results demonstrate the encapsulation of bromine within the FLG, leading to air-stable transparent conducting electrodes with 5-fold improvement of sheet resistance reaching ∼180 Ω/□ at the cost of only 2–3% loss of optical transmittance. The remarkably low trade-off in optical transparency leads to the highest enhancements in the figure of merit …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 50,
+    "citedby_url": "/scholar?hl=en&cites=5269548219534960552",
+    "cites_id": [
+      "5269548219534960552"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsami.5b03274",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qGcsuC8yIUkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2016": 3,
+      "2017": 13,
+      "2018": 10,
+      "2019": 6,
+      "2020": 6,
+      "2021": 4,
+      "2022": 2,
+      "2023": 2,
+      "2024": 2,
+      "2025": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The optical signatures of molecular-doping induced polarons in poly (3-hexylthiophene-2, 5-diyl): individual polymer chains versus aggregates",
+      "pub_year": 2020,
+      "citation": "Journal of Materials Chemistry C 8 (8), 2870-2879, 2020",
+      "author": "Ahmed E Mansour and Dominique Lungwitz and Thorsten Schultz and Malavika Arvind and Ana M Valencia and Caterina Cocchi and Andreas Opitz and Dieter Neher and Norbert Koch",
+      "journal": "Journal of Materials Chemistry C",
+      "volume": "8",
+      "number": "8",
+      "pages": "2870-2879",
+      "publisher": "Royal Society of Chemistry",
+      "abstract": "Optical absorption spectroscopy is a key method to investigate doped conjugated polymers and to characterize the doping-induced charge carriers, i.e., polarons. For prototypical poly(3-hexylthiophene-2,5-diyl) (P3HT), the absorption intensity of molecular dopant induced polarons is widely used to estimate the carrier density and the doping efficiency, i.e., the number of polarons formed per dopant molecule. However, the dependence of the polaron-related absorption features on the structure of doped P3HT, being either aggregates or separated individual chains, is not comprehensively understood in contrast to the optical absorption features of neutral P3HT. In this work, we unambiguously differentiate the optical signatures of polarons on individual P3HT chains and aggregates in solution, notably the latter exhibiting the same shape as aggregates in solid thin films. This is enabled by employing tris …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:YOwf2qJgpHMC",
+    "num_citations": 47,
+    "citedby_url": "/scholar?hl=en&cites=10766185945453802924",
+    "cites_id": [
+      "10766185945453802924"
+    ],
+    "pub_url": "https://pubs.rsc.org/en/content/articlehtml/2020/tc/c9tc06509a",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rLWTYBMtaZUJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 5,
+      "2021": 10,
+      "2022": 11,
+      "2023": 12,
+      "2024": 8,
+      "2025": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "An Organic Borate Salt with Superior p‐Doping Capability for Organic Semiconductors",
+      "pub_year": 2020,
+      "citation": "Advanced Science, 2001322, 2020",
+      "author": "Berthold Wegner and Dominique Lungwitz and Ahmed E Mansour and Claudia E Tait and Naoki Tanaka and Tianshu Zhai and Steffen Duhm and Michael Forster and Jan Behrends and Yoshiaki Shoji and Andreas Opitz and Ullrich Scherf and Emil JW List‐Kratochvil and Takanori Fukushima and Norbert Koch",
+      "journal": "Advanced Science",
+      "pages": "2001322",
+      "abstract": "Molecular doping allows enhancement and precise control of electrical properties of organic semiconductors, and is thus of central technological relevance for organic (opto‐) electronics. Beyond single‐component molecular electron acceptors and donors, organic salts have recently emerged as a promising class of dopants. However, the pertinent fundamental understanding of doping mechanisms and doping capabilities is limited. Here, the unique capabilities of the salt consisting of a borinium cation (Mes2B+; Mes: mesitylene) and the tetrakis(penta‐fluorophenyl)borate anion [B(C6F5)4]− is demonstrated as p‐type dopant for polymer semiconductors. With a range of experimental methods, the doping mechanism is identified to comprise electron transfer from the polymer to Mes2B+, and the positive charge on the polymer is stabilized by [B(C6F5)4]−. Notably, the former salt cation leaves during processing and …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:4DMP91E08xMC",
+    "num_citations": 46,
+    "citedby_url": "/scholar?hl=en&cites=11492984188612183640",
+    "cites_id": [
+      "11492984188612183640"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202001322",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WAZpIzpIf58J:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 10,
+      "2022": 16,
+      "2023": 10,
+      "2024": 6,
+      "2025": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Tuning the Work Function of Ti3C2Tx MXene by Molecular Doping without Changing its Surface Functional Groups",
+      "pub_year": 2022,
+      "citation": "ACS Materials Letters 4 (12), 2480-2490, 2022",
+      "author": "Jehad K El-Demellawi and Ahmed E Mansour and Ahmed M El-Zohry and Mohamed N Hedhili and Jun Yin and Abdul-Hamid M Emwas and Partha Maity and Xiangming Xu and Osman M Bakr and Omar F Mohammed and Husam N Alshareef",
+      "journal": "ACS Materials Letters",
+      "volume": "4",
+      "number": "12",
+      "pages": "2480-2490",
+      "publisher": "American Chemical Society",
+      "abstract": "Owing to their impressive electronic/optoelectronic properties, MXenes have attracted significant attention among the 2D materials research community. Their work function (WF) tunability, in particular, has permitted efficient interfacial band alignment engineering in several device applications. However, like most of their properties, the WF of MXenes highly depends on their surface terminations, making it hard to individually modify the WF without compromising other fundamental properties, which hinders the exploitation of MXenes to their full potential. Herein, we introduce a surface-termination-independent method to tune the WF of Ti3C2Tx MXene through molecular doping. The achieved stepwise 500-meV increase in WF, in ∼120-meV increments, is induced by subsurface electron depletion from Ti3C2Tx, with no effect on its other key properties. Utilizing electron paramagnetic resonance and ultrafast laser …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:NaGl4SEjCO4C",
+    "num_citations": 36,
+    "citedby_url": "/scholar?hl=en&cites=10688822799496725298",
+    "cites_id": [
+      "10688822799496725298"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsmaterialslett.2c00796",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MkMZT7RTVpQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 7,
+      "2024": 20,
+      "2025": 9
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Understanding the evolution of the Raman spectra of molecularly p-doped poly (3-hexylthiophene-2, 5-diyl): signatures of polarons and bipolarons",
+      "pub_year": 2022,
+      "citation": "Physical Chemistry Chemical Physics 24 (5), 3109-3118, 2022",
+      "author": "Ahmed E Mansour and Ana M Valencia and Dominique Lungwitz and Berthold Wegner and Naoki Tanaka and Yoshiaki Shoji and Takanori Fukushima and Andreas Opitz and Caterina Cocchi and Norbert Koch",
+      "journal": "Physical Chemistry Chemical Physics",
+      "volume": "24",
+      "number": "5",
+      "pages": "3109-3118",
+      "publisher": "Royal Society of Chemistry",
+      "abstract": "Molecular doping is a key process to increase the density of charge carriers in organic semiconductors. Doping-induced charges in polymer semiconductors result in the formation of polarons and/or bipolarons due to the strong electron-vibron coupling in conjugated organic materials. Identifying the nature of charge carriers in doped polymers is essential to optimize the doping process for applications. In this work, we use Raman spectroscopy to investigate the formation of charge carriers in molecularly doped poly(3-hexylthiophene-2,5-diyl) (P3HT) for increasing dopant concentration, with the organic salt dimesityl borinium tetrakis(penta-fluorophenyl)borate (Mes2B+ [B(C6F5)4]−) and the Lewis acid tris(pentafluorophenyl)borane [B(C6F5)3]. While the Raman signatures of neutral P3HT and singly charged P3HT segments (polarons) are known, the Raman spectra of doubly charged P3HT segments (bipolarons …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:M3NEmzRMIkIC",
+    "num_citations": 36,
+    "citedby_url": "/scholar?hl=en&cites=7417698072188764676",
+    "cites_id": [
+      "7417698072188764676"
+    ],
+    "pub_url": "https://pubs.rsc.org/en/content/articlehtml/2022/cp/d1cp04985b",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BELpkxj18GYJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 9,
+      "2023": 14,
+      "2024": 12,
+      "2025": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Facile Doping and Work‐Function Modification of Few‐Layer Graphene Using Molecular Oxidants and Reductants",
+      "pub_year": 2017,
+      "citation": "Advanced Functional Materials 27 (7), 1602004, 2017",
+      "author": "Ahmed E Mansour and Marcel M Said and Sukumar Dey and Hanlin Hu and Siyuan Zhang and Rahim Munir and Yadong Zhang and Karttikay Moudgil and Stephen Barlow and Seth R Marder and Aram Amassian",
+      "journal": "Advanced Functional Materials",
+      "volume": "27",
+      "number": "7",
+      "pages": "1602004",
+      "abstract": "Doping of graphene is a viable route toward enhancing its electrical conductivity and modulating its work function for a wide range of technological applications. In this work, the authors demonstrate facile, solution‐based, noncovalent surface doping of few‐layer graphene (FLG) using a series of molecular metal‐organic and organic species of varying n‐ and p‐type doping strengths. In doing so, the authors tune the electronic, optical, and transport properties of FLG. The authors modulate the work function of graphene over a range of 2.4 eV (from 2.9 to 5.3 eV)—unprecedented for solution‐based doping—via surface electron transfer. A substantial improvement of the conductivity of FLG is attributed to increasing carrier density, slightly offset by a minor reduction of mobility via Coulomb scattering. The mobility of single layer graphene has been reported to decrease significantly more via similar surface doping than …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:qjMakFHDy7sC",
+    "num_citations": 36,
+    "citedby_url": "/scholar?hl=en&cites=9514879649284874978",
+    "cites_id": [
+      "9514879649284874978"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201602004",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4uI3CKGkC4QJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 5,
+      "2018": 1,
+      "2019": 4,
+      "2020": 8,
+      "2021": 5,
+      "2022": 3,
+      "2023": 5,
+      "2024": 2,
+      "2025": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Solution-processable MoOx nanocrystals enable highly efficient reflective and semitransparent polymer solar cells",
+      "pub_year": 2016,
+      "citation": "Nano Energy 28, 277-287, 2016",
+      "author": "Lethy Krishnan Jagadamma and Hanlin Hu and Taesoo Kim and Guy O Ngongang Ndjawa and Ahmed E Mansour and Abdulrahman El Labban and Jorge CD Faria and Rahim Munir and Dalaver H Anjum and Martyn A McLachlan and Aram Amassian",
+      "journal": "Nano Energy",
+      "volume": "28",
+      "pages": "277-287",
+      "publisher": "Elsevier",
+      "abstract": "Solution-manufacturing of organic solar cells with best-in-class power conversion efficiency (PCE) will require all layers to be solution-coated without compromising solar cell performance. To date, the hole transporting layer (HTL) deposited on top of the organic bulk heterojunction layer in the inverted architecture is most commonly an ultrathin (<10 nm) metal oxide layer prepared by vacuum-deposition. Here, we show that an alcohol-based nanocrystalline MoOx suspension with carefully controlled nanocrystal (NC) size can yield state of the art reflective and semitransparent solar cells. Using NCs smaller than the target HTL thickness (∼10 nm) can yield compact, pinhole-free films which result in highly efficient polymer:fullerene bulk heterojunction (BHJ) solar cells with PCE=9.5%. The solution processed HTL is shown to achieve performance parity with vacuum-evaporated HTLs for several polymer:fullerene …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:9yKSN-GCB0IC",
+    "num_citations": 35,
+    "citedby_url": "/scholar?hl=en&cites=1158196066860802353",
+    "cites_id": [
+      "1158196066860802353"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2211285516303081",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MSF-uS-9EhAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2016": 1,
+      "2017": 6,
+      "2018": 2,
+      "2019": 4,
+      "2020": 9,
+      "2021": 5,
+      "2022": 4,
+      "2023": 2,
+      "2024": 0,
+      "2025": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Conductive polymer work function changes due to residual water: impact of temperature‐dependent dielectric constant",
+      "pub_year": 2020,
+      "citation": "Advanced Electronic Materials 6 (10), 2000408, 2020",
+      "author": "Ahmed E Mansour and Hongwon Kim and Soohyung Park and Thorsten Schultz and David Xi Cao and Thuc‐Quyen Nguyen and Wolfgang Brütting and Andreas Opitz and Norbert Koch",
+      "journal": "Advanced Electronic Materials",
+      "volume": "6",
+      "number": "10",
+      "pages": "2000408",
+      "abstract": "Solution‐processed conducting polymer thin films are key components in organic and flexible electronic and optoelectronic devices. An archetypal conducting polymer is poly(3,4‐ethylenedioxythiophene)‐poly(styrenesulfonate) (PEDOT:PSS), which can feature a high work function and thus helps achieving Ohmic contacts for holes with many semiconductors. However, it is known that residual water in PEDOT:PSS films lowers their work function and is detrimental for device lifetime. Our photoelectron spectroscopy experiments reveal that the work function of PEDOT:PSS films containing residual water shows the same trend as function of temperature as does the dielectric constant (ε) of water, in the range between 25 °C and ‐100 °C. Consistently, it is found from impedance spectroscopy measurements that ε of residual water containing PEDOT:PSS films increases with decreasing temperature. After removal of …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:-f6ydRqryjwC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=3685170441962838754",
+    "cites_id": [
+      "3685170441962838754"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aelm.202000408",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4tr2-f1aJDMJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 3,
+      "2022": 5,
+      "2023": 6,
+      "2024": 5,
+      "2025": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Colloidal Quantum Dot Photovoltaics Using Ultrathin, Solution-Processed Bilayer In2O3/ZnO Electron Transport Layers with Improved Stability",
+      "pub_year": 2020,
+      "citation": "ACS Applied Energy Materials 3 (6), 5135-5141, 2020",
+      "author": "Ahmad R Kirmani and Flurin Eisner and Ahmed E Mansour and Yuliar Firdaus and Neha Chaturvedi and Akmaral Seitkhan and Mohamad I Nugraha and Emre Yarali and F Pelayo Garcı́a de Arquer and Edward H Sargent and Thomas D Anthopoulos and Aram Amassian",
+      "journal": "ACS Applied Energy Materials",
+      "volume": "3",
+      "number": "6",
+      "pages": "5135-5141",
+      "publisher": "American Chemical Society",
+      "abstract": "Solution-processed colloidal quantum dot (CQD) photovoltaics (PVs) continue to mature with improvements in device architectures and ligand exchange strategies. Carrier selective contacts extract photogenerated charge carriers from the CQD absorber; however, the role of the electron-transporting layer (ETL) in stability remains unclear. Herein, we find that the typically used >100 nm thick ZnO ETL suffers from parasitic absorption and carrier recombination resulting in unstable n–i–p solar cells with faster UV-degradation. We address this by developing an ultrathin (ca. 20 nm), quantum-confined, solution-processed In2O3/ZnO ETL. This bilayer ETL results in solar cells with significantly improved overall stability without compromising performance, with an 11.1% power conversion efficiency hero device."
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:4TOpqqG69KYC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=5416992467856220645",
+    "cites_id": [
+      "5416992467856220645"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsaem.0c00831",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5WGJ9fIFLUsJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 2,
+      "2021": 3,
+      "2022": 5,
+      "2023": 4,
+      "2024": 5
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Hybrid doping of few-layer graphene via a combination of intercalation and surface doping",
+      "pub_year": 2017,
+      "citation": "ACS applied materials & interfaces 9 (23), 20020-20028, 2017",
+      "author": "Ahmed E Mansour and Ahmad R Kirmani and Stephen Barlow and Seth R Marder and Aram Amassian",
+      "journal": "ACS applied materials & interfaces",
+      "volume": "9",
+      "number": "23",
+      "pages": "20020-20028",
+      "publisher": "American Chemical Society",
+      "abstract": "Surface molecular doping of graphene has been shown to modify its work function and increase its conductivity. However, the associated shifts in work function and increases in carrier concentration are highly coupled and limited by the surface coverage of dopant molecules on graphene. Here we show that few-layer graphene (FLG) can be doped using a hybrid approach, effectively combining surface doping by larger (metal−)organic molecules and intercalation of smaller molecules, such as Br2 and FeCl3, into the bulk. Intercalation tunes the carrier concentration more effectively, whereas surface doping of intercalated FLG can be used to tune its work function without reducing the carrier mobility. This multimodal doping approach yields a very high carrier density and tunable increase in the work function for FLG, demonstrating a new versatile platform for fabricating graphene-based contacts for electronic …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:UeHWp8X0CEIC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=5900619842926291360",
+    "cites_id": [
+      "5900619842926291360"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsami.7b02886",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oCk-_Hs241EJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 4,
+      "2020": 3,
+      "2021": 2,
+      "2022": 3,
+      "2023": 2,
+      "2024": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Facile and noninvasive passivation, doping and chemical tuning of macroscopic hybrid perovskite crystals",
+      "pub_year": 2020,
+      "citation": "PLoS One 15 (3), e0230540, 2020",
+      "author": "Ahmad R Kirmani and Ahmed E Mansour and Chen Yang and Rahim Munir and Ahmed M El-Zohry and Omar F Mohammed and Aram Amassian",
+      "journal": "PLoS One",
+      "volume": "15",
+      "number": "3",
+      "pages": "e0230540",
+      "publisher": "Public Library of Science",
+      "abstract": "Halide vacancies and associated metallic lead (Pb°) observed at the surface and deep inside macroscopic organolead trihalide perovskite crystals is removed through a facile and noninvasive treatment. Indeed, Br2 vapor is shown to passivate Br-vacancies and associated Pb° in the bulk of macroscopic crystals. Controlling the exposure time can markedly improve the overall stoichiometry for moderate exposures or introduce excessive bromide for long exposures, resulting in p-doping of the crystals. In the low dose passivation regime, Hall effect measurements reveal a ca. 3-fold increase in carrier mobility to ca. 15 cm2V-1s-1, while the p-doping increases the electrical conductivity ca. 10000-fold, including a 50-fold increase in carrier mobility to ca. 150 cm2V-1s-1. The ease of diffusion of Br2 vapor into macroscopic crystals is ascribed to the porosity allowed in rapidly grown crystals through aggregative processes of the colloidal sol during growth of films and macroscopic crystals. This process is believed to form significant growth defects, including open voids, which may be remnants of the escaping solvent at the solidification front. These results suggest that due to the sol-gel-like nature of the growth process, macroscopic perovskite crystals reported in this study are far from perfect and point to possible pathways to improving the optoelectronic properties of these materials. Nevertheless, the ability of the vapor-phase approach to access and tune the bulk chemistry and properties of nominally macroscopic perovskite crystals provides interesting new opportunities to precisely manipulate and functionalize the bulk properties of hybrid perovskite …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:_kc_bZDykSQC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=10168756929436700426",
+    "cites_id": [
+      "10168756929436700426"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230540",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Cs9dCo2uHo0J:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 3,
+      "2022": 0,
+      "2023": 4,
+      "2024": 6
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Spectral Signatures of a Negative Polaron in a Doped Polymer Semiconductor: Energy Levels and Hubbard U Interactions",
+      "pub_year": 2023,
+      "citation": "The Journal of Physical Chemistry Letters 14 (24), 5633-5640, 2023",
+      "author": "Dominique Lungwitz and Syed Joy and Ahmed E Mansour and Andreas Opitz and Chamikara Karunasena and Hong Li and Naitik A Panjwani and Karttikay Moudgil and Kan Tang and Jan Behrends and Stephen Barlow and Seth R Marder and Jean-Luc Brédas and Kenneth Graham and Norbert Koch and Antoine Kahn",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "volume": "14",
+      "number": "24",
+      "pages": "5633-5640",
+      "publisher": "American Chemical Society",
+      "abstract": "The modern picture of negative charge carriers on conjugated polymers invokes the formation of a singly occupied (spin-up/spin-down) level within the polymer gap and a corresponding unoccupied level above the polymer conduction band edge. The energy splitting between these sublevels is related to on-site Coulomb interactions between electrons, commonly termed Hubbard U. However, spectral evidence for both sublevels and experimental access to the U value is still missing. Here, we provide evidence by n-doping the polymer P(NDI2OD-T2) with [RhCp*Cp]2, [N-DMBI]2, and cesium. Changes in the electronic structure after doping are studied with ultraviolet photoelectron and low-energy inverse photoemission spectroscopies (UPS, LEIPES). UPS data show an additional density of states (DOS) in the former empty polymer gap while LEIPES data show an additional DOS above the conduction band edge …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:2P1L_qKh6hAC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=10544649491096495879",
+    "cites_id": [
+      "10544649491096495879"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c01022",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:B2fPHdgeVpIJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 4,
+      "2024": 3,
+      "2025": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Structural analysis of planar sp3 and sp2 films: Diamond-like carbon and graphene overlayers",
+      "pub_year": 2011,
+      "citation": "",
+      "author": "Ahmed Mansour",
+      "abstract": "The special electronic configuration of carbon enables the existence of wide ranging allotropes taking all possible dimensionalities. The allotropes of carbon are characterized by the type of hybridized bonding forming its structure, ranging from pure sp2 as in graphene, carbon nanotubes and fullerenes, to pure sp3 as in diamond. Amorphous and diamond-like carbon consists of a mixture of both hybridizations. This variation in hybridization in carbon materials enables a wide spectrum of properties, ranging from high bulk mechanical hardness, tribological properties and chemical inertness made possible by moving towards pure sp3 bonding to the extraordinary electrical conductivity, optical properties and in-plane mechanical strength resulting from pure sp2 bonding. Two allotropes at the extremes of this spectrum, diamond like carbon (DLC) and graphene, are investigated in this thesis; the former is investigated as a protective coating in hard drive applications, while the latter is investigated in the context of chemically derived graphene as material for transparent conducting electrode applications. DLC thin films are a main component in computer hard drives, acting as a protective coating against corrosion and mechanical wear of the magnetic layer and read-write head. The thickness of DLC films greatly affects the storage density in such devices, as larger separation between the read/write head and the magnetic layer decreases the storage density. A targeted DLC thickness of 2 nm would increase the storage density towards 1 Tbits/inch2. However, difficulty achieving continuous films at such thicknesses by commonly used sputtering …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:u-x6o8ySG0sC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=8491241819603621652",
+    "cites_id": [
+      "8491241819603621652"
+    ],
+    "pub_url": "https://repository.kaust.edu.sa/handle/10754/205813",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FFdqR3Lz1nUJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 1,
+      "2018": 1,
+      "2019": 3,
+      "2020": 1,
+      "2021": 0,
+      "2022": 3,
+      "2023": 0,
+      "2024": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Non-equilibrium transport in polymer mixed ionic–electronic conductors at ultrahigh charge densities",
+      "pub_year": 2024,
+      "citation": "Nature Materials, 1-8, 2024",
+      "author": "Dionisius HL Tjhe and Xinglong Ren and Ian E Jacobs and Gabriele D’avino and Tarig BE Mustafa and Thomas G Marsh and Lu Zhang and Yao Fu and Ahmed E Mansour and Andreas Opitz and Yuxuan Huang and Wenjin Zhu and Ahmet Hamdi Unal and Sebastiaan Hoek and Vincent Lemaur and Claudio Quarti and Qiao He and Jin-Kyun Lee and Iain McCulloch and Martin Heeney and Norbert Koch and Clare P Grey and David Beljonne and Simone Fratini and Henning Sirringhaus",
+      "journal": "Nature Materials",
+      "pages": "1-8",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "Conducting polymers are mixed ionic–electronic conductors that are emerging candidates for neuromorphic computing, bioelectronics and thermoelectrics. However, fundamental aspects of their many-body correlated electron–ion transport physics remain poorly understood. Here we show that in p-type organic electrochemical transistors it is possible to remove all of the electrons from the valence band and even access deeper bands without degradation. By adding a second, field-effect gate electrode, additional electrons or holes can be injected at set doping states. Under conditions where the counterions are unable to equilibrate in response to field-induced changes in the electronic carrier density, we observe surprising, non-equilibrium transport signatures that provide unique insights into the interaction-driven formation of a frozen, soft Coulomb gap in the density of states. Our work identifies new strategies for …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:SeFeTyx0c_EC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=12730124532233890864",
+    "cites_id": [
+      "12730124532233890864"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41563-024-01953-6",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MGxJotB8qrAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2024": 1,
+      "2025": 8
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The growth of photoactive porphyrin-based MOF thin films using the liquid-phase epitaxy approach and their optoelectronic properties",
+      "pub_year": 2019,
+      "citation": "Materials 12 (15), 2457, 2019",
+      "author": "Guy Olivier Ngongang Ndjawa and Mohamed R Tchalala and Osama Shekhah and Jafar I Khan and Ahmed E Mansour and Justyna Czaban-Jóźwiak and Lukasz J Weselinski and Hassan Ait Ahsaine and Aram Amassian and Mohamed Eddaoudi",
+      "journal": "Materials",
+      "volume": "12",
+      "number": "15",
+      "pages": "2457",
+      "publisher": "MDPI",
+      "abstract": "This study reports on the optoelectronic properties of porphyrin-based metal–organic framework (MOF) thin films fabricated by a facile liquid-phase epitaxy approach. This approach affords the growth of MOF thin films that are free of morphological imperfections, more suitable for optoelectronic applications. Chemical modifications such as the porphyrin ligand metallation have been found to preserve the morphology of the grown films making this approach particularly suitable for molecular alteration of MOF thin film optoelectronic properties without compromising its mesoscale morphology significantly. Particularly, the metallation of the ligand was found to be effective to tune the MOF bandgap. These porphyrin-based MOF thin films were shown to function effectively as donor layers in solar cells based on a Fullerene-C60 acceptor. The ability to fabricate MOF solar cells free of a liquid-phase acceptor greatly simplifies device fabrication and enables pairing of MOFs as light absorbers with a wide range of acceptors including non-fullerene acceptors."
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:0EnyYjriUFMC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=9998847754236259750",
+    "cites_id": [
+      "9998847754236259750"
+    ],
+    "pub_url": "https://www.mdpi.com/1996-1944/12/15/2457",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pu12ag4Lw4oJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 1,
+      "2021": 1,
+      "2022": 0,
+      "2023": 1,
+      "2024": 5,
+      "2025": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Use of a Multiple Hydride Donor To Achieve an n-Doped Polymer with High Solvent Resistance",
+      "pub_year": 2022,
+      "citation": "ACS Applied Materials & Interfaces 14 (29), 33598-33605, 2022",
+      "author": "Farzaneh Saeedifard and Dominique Lungwitz and Zi-Di Yu and Sebastian Schneider and Ahmed E Mansour and Andreas Opitz and Stephen Barlow and Michael F Toney and Jian Pei and Norbert Koch and Seth R Marder",
+      "journal": "ACS Applied Materials & Interfaces",
+      "volume": "14",
+      "number": "29",
+      "pages": "33598-33605",
+      "publisher": "American Chemical Society",
+      "abstract": "The ability to insolubilize doped semiconducting polymer layers can help enable the fabrication of efficient multilayer solution-processed electronic and optoelectronic devices. Here, we present a promising approach to simultaneously n-dope and largely insolubilize conjugated polymer films using tetrakis[{4-(1,3-dimethyl-2,3-dihydro-1H-benzo[d]imidazol-2-yl)phenoxy}methyl]methane (tetrakis-O-DMBI-H), which consists of four 2,3-dihydro-1H-benzoimidazole (DMBI-H) n-dopant moieties covalently linked to one another. Doping a thiophene-fused benzodifurandione-based oligo(p-phenylenevinylene)-co-thiophene polymer (TBDOPV-T) with tetrakis-O-DMBI-H results in a highly n-doped film with bulk conductivity of 15 S cm–1. Optical absorption spectra provide evidence for film retention of ∼93% after immersion in o-dichlorobenzene for 5 min. The optical absorption signature of the charge carriers in the n-doped …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:ns9cj8rnVeAC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=7581436782161522028",
+    "cites_id": [
+      "7581436782161522028"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsami.2c05724",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bG3Rz5WsNmkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1,
+      "2023": 1,
+      "2024": 5,
+      "2025": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "O crescimento de filmes finos de MOF com base em porfirina fotoativa usando a abordagem de epitaxia em fase líquida e suas propriedades optoeletrônicas",
+      "pub_year": 2019,
+      "citation": "Materials 12, 2457, 2019",
+      "author": "FON Ndjawa and MR Tchalala and O Shekhah and JI Khan and AE Mansour and J Czaban-Jóźwiak and LJ Weselinski and HA Ahsaine and A Amassian and M Eddaoudi",
+      "journal": "Materials",
+      "volume": "12",
+      "pages": "2457"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:k_IJM867U9cC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=713556568219666048",
+    "cites_id": [
+      "713556568219666048"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=713556568219666048&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gEbhD-sP5wkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 3,
+      "2021": 2,
+      "2022": 1,
+      "2023": 0,
+      "2024": 0,
+      "2025": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Coordination of tetracyanoquinodimethane-derivatives with tris (pentafluorophenyl) borane provides stronger p-dopants with enhanced stability",
+      "pub_year": 2023,
+      "citation": "ACS applied materials & interfaces 15 (39), 46148-46156, 2023",
+      "author": "Ahmed E Mansour and Ross Warren and Dominique Lungwitz and Michael Forster and Ullrich Scherf and Andreas Opitz and Moritz Malischewski and Norbert Koch",
+      "journal": "ACS applied materials & interfaces",
+      "volume": "15",
+      "number": "39",
+      "pages": "46148-46156",
+      "publisher": "American Chemical Society",
+      "abstract": "Strong molecular dopants for organic semiconductors that are stable against diffusion are in demand, enhancing the performance of organic optoelectronic devices. The conventionally used p-dopants based on 7,7,8,8-tetracyanoquinodimethane (TCNQ) and its derivatives “FxTCN(N)Q”, such as 2,3,4,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane (F4TCNQ) and 1,3,4,5,7,8-hexafluorotetracyano-naphthoquinodimethane (F6TCNNQ), feature limited oxidation strength, especially for modern polymer semiconductors with high ionization energy (IE). These small molecular dopants also exhibit pronounced diffusion in the polymer hosts. Here, we demonstrate a facile approach to increase the oxidation strength of FxTCN(N)Q by coordination with four tris(pentafluorophenyl)borane (BCF) molecules using a single-step solution mixing process, resulting in bulky dopant complexes “FxTCN(N)Q-4(BCF)”. Using a series of …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:M05iB0D1s5AC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=8402044839213994715",
+    "cites_id": [
+      "8402044839213994715"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsami.3c10373",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2xJB7EMPmnQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2024": 6
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Contributions of the lead-bromine weighted bands to the occupied density of states of the hybrid tri-bromide perovskites",
+      "pub_year": 2018,
+      "citation": "Applied Physics Letters 113 (2), 2018",
+      "author": "Ahmad R Kirmani and AE Mansour and Makhsud I Saidaminov and X Cui and D Shi and A Alofi and Ya B Losovyj and G Gurung and TR Paudel and AJ Yost and PA Dowben and EY Tsymbal and Aram Amassian and Khabiboulakh Katsiev",
+      "journal": "Applied Physics Letters",
+      "volume": "113",
+      "number": "2",
+      "publisher": "AIP Publishing",
+      "abstract": "The electronic structure of methylammonium lead bromide (CH 3 NH 3 PbBr 3) single crystals has been investigated through a combination of resonant photoemission and theoretical modeling. There are Pb spectral contributions throughout the valence band. Importantly, the electronic structure at the top of the valence band is found to be dominated by the hybridized Pb-Br bands, not methylammonium bromide. The results line up with the partial density of states obtained from density functional theory and confirm that much of the valence band has some Pb spectral weight."
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:Y0pCki6q_DkC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=5098450643364495801",
+    "cites_id": [
+      "5098450643364495801"
+    ],
+    "pub_url": "https://pubs.aip.org/aip/apl/article/113/2/022101/1022750",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uUGa7thVwUYJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 1,
+      "2019": 0,
+      "2020": 3,
+      "2021": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Towards traffic congestion-free through intelligent traffic control system",
+      "pub_year": 2019,
+      "citation": "2019 7th International Japan-Africa Conference on Electronics …, 2019",
+      "author": "Ahmed Mansour and Mohamed RM Rizk",
+      "conference": "2019 7th International Japan-Africa Conference on Electronics, Communications, and Computations,(JAC-ECC)",
+      "pages": "5-8",
+      "publisher": "IEEE",
+      "abstract": "One of the most serious problems that take lots of attention during last decade is the massive increasing in number of vehicles, which leads to dramatically traffic congestion. Such problem in cities puts huge stress on various systems for decision making and infrastructure planning of many metropolitan areas. Therefore, traffic control becomes the main concern for different systems to overcome this gradual challenge as associated phenomena of the continuous growth of population and vehicles over inadequate road infrastructures. The conventional systems rely on using a static timer for traffic signal, but this solution has multiple limitations, as traffic signal changes its lights even there are no vehicles on the road, which causes fake jamming and waste time and resources. Thus, recent literatures show massive improvements of reducing traffic overcrowding through the usage of Internet of Things (IoT) technology to …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:RYcK_YlVTxYC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=15086302838983151789",
+    "cites_id": [
+      "15086302838983151789"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9051064/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rdCOW4BQXdEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 2,
+      "2022": 0,
+      "2023": 1,
+      "2024": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Improving the resistance of molecularly doped polymer semiconductor layers to solvent",
+      "pub_year": 2023,
+      "citation": "Chemistry of Materials 35 (2), 672-681, 2023",
+      "author": "Dominique Lungwitz and Ahmed E Mansour and Yadong Zhang and Andreas Opitz and Stephen Barlow and Seth R Marder and Norbert Koch",
+      "journal": "Chemistry of Materials",
+      "volume": "35",
+      "number": "2",
+      "pages": "672-681",
+      "publisher": "American Chemical Society",
+      "abstract": "The ability to form multi-heterolayer (opto)electronic devices by solution processing of (molecularly doped) semiconducting polymer layers is of great interest since it can facilitate the fabrication of large-area and low-cost devices. However, the solution processing of multilayer devices poses a particular challenge with regard to dissolution of the first layer during the deposition of a second layer. Several approaches have been introduced to circumvent this problem for neat polymers, but suitable approaches for molecularly doped polymer semiconductors are much less well-developed. Here, we provide insights into two different mechanisms that can enhance the solvent resistance of solution-processed doped polymer layers while also retaining the dopants, one being the doping-induced pre-aggregation in solution and the other including the use of a photo-reactive agent that results in covalent cross-linking of the …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:vV6vV6tmYwMC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=12520449929526557057",
+    "cites_id": [
+      "12520449929526557057"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c03262",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gbl-7d-Swa0J:scholar.google.com/",
+    "cites_per_year": {
+      "2024": 1,
+      "2025": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Coupled organic–inorganic nanostructures with mixed organic linker molecules",
+      "pub_year": 2021,
+      "citation": "ACS Applied Materials & Interfaces 13 (31), 37483-37493, 2021",
+      "author": "Florian Grassl and Aladin Ullrich and Ahmed E Mansour and Shaimaa M Abdalbaqi and Norbert Koch and Andreas Opitz and Marcus Scheele and Wolfgang Brütting",
+      "journal": "ACS Applied Materials & Interfaces",
+      "volume": "13",
+      "number": "31",
+      "pages": "37483-37493",
+      "publisher": "American Chemical Society",
+      "abstract": "The electronic properties of semiconducting inorganic lead sulfide (PbS) nanocrystals (NCs) and organic linker molecules are dependent on the size of NCs as well as the used ligands. Here, we demonstrate that a weakly binding ligand can be successfully attached to PbS NCs to form a coupled organic–inorganic nanostructure (COIN) by mixing with a strong binding partner. We use the weakly binding zinc β-tetraaminophthalocyanine (Zn4APc) in combination with the strongly binding 1,2-ethanedithiol (EDT) as a mixed ligand system and compare its structural, electronic, and (photo-)electrical properties with both single-ligand COINs. It is found that binding of Zn4APc is assisted by the presence of EDT leading to improved film homogeneity, lower trap density, and enhanced photocurrent of the derived devices. Thus, the mixing of ligands is a versatile tool to achieve COINs with improved performance."
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:TFP_iSt0sucC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=352403077608631681",
+    "cites_id": [
+      "352403077608631681"
+    ],
+    "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsami.1c08614",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ge2dYrv84wQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Surface doping of rubrene single crystals by molecular electron donors and acceptors",
+      "pub_year": 2023,
+      "citation": "Physical Chemistry Chemical Physics 25 (43), 29718-29726, 2023",
+      "author": "Christos Gatsios and Andreas Opitz and Dominique Lungwitz and Ahmed E Mansour and Thorsten Schultz and Dongguen Shin and Sebastian Hammer and Jens Pflaum and Yadong Zhang and Stephen Barlow and Seth R Marder and Norbert Koch",
+      "journal": "Physical Chemistry Chemical Physics",
+      "volume": "25",
+      "number": "43",
+      "pages": "29718-29726",
+      "publisher": "Royal Society of Chemistry",
+      "abstract": "The surface molecular doping of organic semiconductors can play an important role in the development of organic electronic or optoelectronic devices. Single-crystal rubrene remains a leading molecular candidate for applications in electronics due to its high hole mobility. In parallel, intensive research into the fabrication of flexible organic electronics requires the careful design of functional interfaces to enable optimal device characteristics. To this end, the present work seeks to understand the effect of surface molecular doping on the electronic band structure of rubrene single crystals. Our angle-resolved photoemission measurements reveal that the Fermi level moves in the band gap of rubrene depending on the direction of surface electron-transfer reactions with the molecular dopants, yet the valence band dispersion remains essentially unperturbed. This indicates that surface electron-transfer doping of a …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:pqnbT2bcN3wC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6576017550557027813",
+    "cites_id": [
+      "6576017550557027813"
+    ],
+    "pub_url": "https://pubs.rsc.org/en/content/articlehtml/2023/cp/d3cp03640e",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5Z2v-R61QlsJ:scholar.google.com/",
+    "cites_per_year": {
+      "2024": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Thermoelectric Transport Signatures of Carrier Interactions in Polymer Electrochemical Transistors",
+      "pub_year": 2023,
+      "citation": "APS March Meeting Abstracts 2023, S15. 012, 2023",
+      "author": "Dionisius Hardjo Lukito Tjhe and Xinglong Ren and Ian Jacobs and Tarig Mustafa and Thomas Marsh and Yuxuan Huang and Lu Zhang and William Wood and Ahmed Mansour and Gabriele d'Avino and David Beljonne and Norbert Koch and Henning Sirringhaus",
+      "journal": "APS March Meeting Abstracts",
+      "volume": "2023",
+      "pages": "S15. 012",
+      "abstract": "Electronic phase transitions of polymers in the high carrier density regimes are still not well understood. Early works in the field have elegantly demonstrated that several polymers could be turned from a band-insulator to a metal upon chemical doping. However, little is known about carrier interaction effects that would be expected to arise, for instance, as the metallic state gets doped even more. The closest transport signature to that of a correlated system so far is the Efros-Skhlovskii variable-range hopping temperature dependence of electrical conductivity, reflecting the opening of a Coulomb gap around the Fermi level because of interactions between localised carriers in the insulating regime. In this study, changes in the electronic phases of polymers are analysed by means of thermoelectric transport signatures. A wide range of carrier densities could be explored in our ionic liquid gated electrochemical …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:lSLTfruPkqcC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5805446752999302347",
+    "cites_id": [
+      "5805446752999302347"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2023APS..MARS15012T/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:y-T3MhAXkVAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Many-body charge transport physics of heavily doped polymer semiconductors",
+      "pub_year": 2024,
+      "citation": "Bulletin of the American Physical Society, 2024",
+      "author": "Dionisius Hardjo Lukito Tjhe and Xinglong Ren and Ian Jacobs and Gabriele d'Avino and Tarig Mustafa and Thomas Marsh and Lu Zhang and Yao Fu and Ahmed Mansour and Yuxuan Huang and Wenjin Zhu and Ahmet Hamdi Unal and Vincent Lemaur and Claudio Quarti and Jin-Kyun Lee and Iain McCulloch and Martin Heeney and Norbert Koch and Clare Grey and David Beljonne and Simone Fratini and Henning Sirringhaus",
+      "journal": "Bulletin of the American Physical Society",
+      "publisher": "American Physical Society",
+      "abstract": "MacDiarmid, and Shirakawa. While the charge transport physics in this class of materials at low carrier densities of less than 10 18 to 10 19 cm− 3 has been relatively well established, the physics at much higher carrier densities of 10 20 to 10 21 cm− 3 remains poorly understood. In this transport regime there is on the order of one charge per molecular repeat unit, and naturally the transport is highly correlated because of the many-body Coulombic interactions between charges and dopant counter-ions, as well as between like charges."
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:HoB7MX3m0LUC",
+    "num_citations": 0,
+    "pub_url": "https://meetings.aps.org/Meeting/MAR24/Session/B33.12",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:B0FKtBCrgswJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Versatile and Tunable Transparent Conducting Electrodes Based on Doped Graphene",
+      "pub_year": 2016,
+      "citation": "",
+      "author": "Ahmed Mansour",
+      "abstract": "The continued growth of the optoelectronics industry and the emergence of wearable and flexible electronics will continue to place an ever increasing pressure on replacing ITO, the most widely used transparent conducting electrode (TCE). Among the various candidates, graphene shows the highest optical transmittance in addition to promising electrical transport properties. The currently available large-scale synthesis routes of graphene result in polycrystalline samples rife with grain boundaries and other defects which limit its transport properties. Chemical doping of graphene is a viable route towards increasing its conductivity and tuning its work function. However, dopants are typically present at the surface of the graphene sheet, making them highly susceptible to degradation in environmental conditions. Few-layers graphene (FLG) is a more resilient form of graphene exhibiting higher conductivity and performance stability under stretching and bending as contrasted to single-layer graphene. In addition FLG presents the advantage of being amenable bulk doping by intercalation."
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:2osOgNQ5qMEC",
+    "num_citations": 0,
+    "pub_url": "https://repository.kaust.edu.sa/handle/10754/621935",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:seIwNck6Z5gJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Bromination of graphene: a new route to making high performance transparent conducting electrodes with low optical losses (Presentation Recording)",
+      "pub_year": 2015,
+      "citation": "Carbon Nanotubes, Graphene, and Emerging 2D Materials for Electronic and …, 2015",
+      "author": "Ahmed E Mansour and Aram Amassian and Minas H Tanielian",
+      "conference": "Carbon Nanotubes, Graphene, and Emerging 2D Materials for Electronic and Photonic Devices VIII",
+      "volume": "9552",
+      "pages": "31-31",
+      "publisher": "SPIE",
+      "abstract": "The high optical transmittance, electrical conductivity, flexibility and chemical stability of graphene have triggered great interest in its application as a transparent conducting electrode material and as a potential replacement for indium doped tin oxide. However, currently available large scale production methods such as chemical vapor deposition produce polycrystalline graphene, and require additional transfer process which further introduces defects and impurities resulting in a significant increase in its sheet resistance. Doping of graphene with foreign atoms has been a popular route for reducing its sheet resistance which typically comes at a significant loss in optical transmission.  Herein, we report the successful bromine doping of graphene resulting in air-stable transparent conducting electrodes with up to 80% reduction of sheet resistance reaching ~180 Ω/ at the cost of 2-3% loss of optical transmission in …"
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:Se3iqnhoufwC",
+    "num_citations": 0,
+    "pub_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9552/95520A/Bromination-of-graphene--a-new-route-to-making-high/10.1117/12.2187273.short",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YIz45elt0s8J:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Tutorials and Tools",
+      "citation": "",
+      "author": "AHMED E MANSOUR",
+      "abstract": "Chemical vapor deposition (CVD) proved to be a successful route for synthesis of large area graphene films on transition metals. However, for various applications, the obtained graphene whether single layer (SLG) as in the case of growth on copper foils or few layers (FLG) as in the case of growth on nickel thin films requires transfer to a destination substrate for device fabrication. The main criteria for a successful transfer process is that it should result in smooth defect-free graphene and be compatible with a wide range of target substrates.[1] However, it is believed that during the transfer process a significant degradation of the quality of CVD graphene occurs due to ripping, folding or tearing up the sheet.[1] Thus, significant effort has been put by the scientific community towards optimizing existing transfer techniques and developing new ones with the aim of maintaining the quality of the as grown samples.The basic principle underlying all the transfer methods of CVD graphene is to employ a support layer placed on top of the graphene layers to protect them and provide a mechanical support during the subsequent transfer steps. Then chemical etching of the underlying metal film is carried out. After the etching process, the graphene/support bilayer is transferred to the destination substrate followed by the removal of the support layer."
+    },
+    "filled": true,
+    "author_pub_id": "lfckvooAAAAJ:5nxA0vEk-isC",
+    "num_citations": 0,
+    "pub_url": "https://www.ahm531.com/tt2.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9Y6tcqCYxo0J:scholar.google.com/",
+    "cites_per_year": {}
+  }
+]

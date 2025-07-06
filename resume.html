@@ -22,6 +22,7 @@
 <body>
   <site-header></site-header>
 
+  
   <main>
     <div class="body-container">
       <!-- Sidebar: Profile image, ORCID, Contact & Skills -->
@@ -129,12 +130,9 @@
               <div class="exp-position">Project coordinator / Scientific staff</div>
               <div class="exp-description">
                 <ul>
-                  <li>
-                    Coordinating outreach, training, and user support activities.
-                  </li>
-                  <li>
-                    NOMAD
-                  </li>
+                  <li>Coordinating outreach, training, and user support activities for the FAIRmat consortium.</li>
+                  <li>Designing and delivering NOMAD-focused workshops, tutorials, and online learning materials.</li>
+                  <li>Liaising with project partners to align communication strategies and incorporate user feedback.</li>
                 </ul>
               </div>
             </div>
@@ -297,6 +295,7 @@
                 </div>
                 <div class="exp-group">
                   Spet 2010 - June 2011
+                </div>
                 <div class="exp-position">
                   Research advisor: Prof. Aram Amassian
                 </div>
@@ -307,6 +306,7 @@
                 </div>
               </div>
             </div>
+
             <div class="resume-item">
               <div class="exp-details">
                 <div class="exp-institute">
@@ -314,6 +314,7 @@
                 </div>
                 <div class="exp-group">
                   June - Aug 2009 and Aug - Sept 2010
+                </div>
                 <div class="exp-position">
                   Research advisor: Prof. Paulo Montiero
                 </div>
@@ -324,6 +325,7 @@
                 </div>
               </div>
             </div>
+
             <div class="resume-item">
               <div class="exp-details">
                 <div class="exp-institute">
@@ -331,6 +333,7 @@
                 </div>
                 <div class="exp-group">
                   June - Sept 2008
+                </div>
                 <div class="exp-position">
                   Research advisor: Prof. David Lange
                 </div>
@@ -463,50 +466,39 @@
                 </div>
               </div>
             </div>
+
             <div class="resume-item">
               <div class="exp-details">
                 <div class="exp-institute">
-                  Vice President of the MRS student chapter at KAUST (2013-2014)                </div>
-                <div class="exp-group">
+                  Vice President of the MRS student chapter at KAUST (2013-2014)
+                </div>
                 <div class="exp-position">
                 </div>
                 <div class="exp-description">
                 </div>
               </div>
             </div>
+
             <div class="resume-item">
               <div class="exp-details">
                 <div class="exp-institute">
                   Founding officer of the first international MRS student chapter at KAUST, acting as inaugural treasurer. (2012-2013)
                 </div>
-                <div class="exp-group">
-                <div class="exp-position">
-                </div>
-                <div class="exp-description">
-                </div>
               </div>
             </div>
+
             <div class="resume-item">
               <div class="exp-details">
                 <div class="exp-institute">
                   Member of the Liaison students team at the Civil Engineering department at the University of Jordan (2006-2009)
                 </div>
-                <div class="exp-group">
-                <div class="exp-position">
-                </div>
-                <div class="exp-description">
-                </div>
               </div>
             </div>
+            
             <div class="resume-item">
               <div class="exp-details">
                 <div class="exp-institute">
                   Founder and webmaster of www.ahm531.com, online web services for civil engineering students.    
-                </div>
-                <div class="exp-group">
-                <div class="exp-position">
-                </div>
-                <div class="exp-description">
                 </div>
               </div>
             </div>
@@ -518,7 +510,42 @@
 
 
       </div>
+
+      <aside id="toc">
+        <h2>On This Page</h2>
+        <ul></ul>
+      </aside>
     </div>
   </main>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const tocList = document.querySelector('#toc ul');
+      // Select only your main headings (adjust selector if needed)
+      const headings = document.querySelectorAll('.body-text h2');
+  
+      headings.forEach((heading, i) => {
+        // 1. Ensure each <h2> has an ID
+        if (!heading.id) {
+          // make a slug from the text, or use a simple counter:
+          heading.id = heading.textContent
+            .toLowerCase()
+            .trim()
+            .replace(/[^\w\s-]/g, '')    // remove punctuation
+            .replace(/\s+/g, '-');       // spaces → dashes
+        }
+  
+        // 2. Build the <li><a> element
+        const li = document.createElement('li');
+        const a  = document.createElement('a');
+        a.href = `#${heading.id}`;
+        a.textContent = heading.textContent;
+  
+        // 3. Append to the TOC
+        li.appendChild(a);
+        tocList.appendChild(li);
+      });
+    });
+  </script>
+  
 </body>
 </html>

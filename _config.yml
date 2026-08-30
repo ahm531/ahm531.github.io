@@ -1,15 +1,19 @@
-theme: jekyll-theme-cayman
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 title: Ahmed E. Mansour
-description: This is a personal webpage for Dr. Mansour
+description: Personal website and research profile for Ahmed E. Mansour.
+theme: jekyll-theme-cayman
+plugins: []
 
-# Navigation Bar Links
-navigation:
-  - name: "Home"
-    link: /
-  - name: "Publications"
-    link: /blog/
-  - name: "Research_experience"
-    link: /about/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .sass-cache/
+  - .jekyll-cache/
+  - vendor/
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default

@@ -42,7 +42,7 @@ permalink: /resume.html
       <ul>
         <li>Arabic (native)</li>
         <li>English (bilingual)</li>
-        <li>Deutsch (limited | B1)</li>
+        <li>Deutsch (B1)</li>
       </ul>
     </div>
   </div>
@@ -50,7 +50,7 @@ permalink: /resume.html
   <div class="body-text">
     <div class="resume-anchor-list">
       <a class="resume-chip" href="#professional-experience">Professional Experience</a>
-      <a class="resume-chip" href="#special-projects-and-internships">Projects &amp; Internships</a>
+      <a class="resume-chip" href="#projects">Projects</a>
       <a class="resume-chip" href="#education">Education</a>
       <a class="resume-chip" href="#volunteer-work-and-leadership-roles">Leadership</a>
     </div>
@@ -140,7 +140,18 @@ permalink: /resume.html
     </section>
 
     <section class="resume-section">
-      <h2 id="special-projects-and-internships">Special projects and internships</h2>
+      <h2 id="projects">Projects</h2>
+
+      <div class="resume-item">
+        <div class="exp-details">
+          <div class="exp-group">2026 –</div>
+          <div class="exp-institute">Ready-PV - Reliability Evaluation through Analytics and Data for emerging technology in Photovoltaics</div>
+          <div class="exp-group">Horizon Europe Research and Innovation Action | Humboldt-Universität zu Berlin</div>
+          <div class="exp-position">Principal Investigator</div>
+          <div class="exp-description">Leading HU activities in research data management, NOMAD-based data infrastructure, documentation, and training, including the project Data Management Plan, NOMAD/ELN documentation, and development of training resources.</div>
+          <div class="exp-group">Grant Agreement: <a href="https://doi.org/10.3030/101293084" target="_blank" rel="noopener"><strong>101293084</strong></a></div>
+        </div>
+      </div>
 
       <div class="resume-item">
         <div class="exp-details">

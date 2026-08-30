@@ -121,6 +121,21 @@ permalink: /publications.html
     color: #0f172a;
   }
 
+  .pub-tag {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 0.45rem;
+    padding: 0.1rem 0.5rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    line-height: 1.2;
+    color: #334155;
+    background: #f8fafc;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+
   .pub-links {
     display: flex;
     gap: 0.65rem;
@@ -236,8 +251,8 @@ permalink: /publications.html
 <!-- Categories -->
 <nav class="pub-categories">
 <button class="active" data-cat="journal">Journal Articles</button>
-<button data-cat="conference">Conference Presentations</button>
-<button data-cat="patents">Patents</button>
+<button data-cat="presentations">Presentations</button>
+<button data-cat="theses">Theses</button>
 <button data-cat="others">Others</button>
 </nav>
 
@@ -695,18 +710,425 @@ Abstract
 
 </div>
 
-<!-- Conference Presentations -->
-<div class="pub-category-content" data-cat="conference">
-<h3>No conference presentations added yet.</h3>
+<!-- Presentations -->
+<div class="pub-category-content" data-cat="presentations">
+<!-- 2026 -->
+<div class="year-section">
+<button class="year-toggle">2026</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"NOMAD: A Platform for Research Data Management in Materials Science,"</strong>
+<em>CRC 1357 Microplastics Seminar</em>, University of Bayreuth, Bayreuth, Germany, <strong>2026</strong>
+<span class="pub-tag">Seminar</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.18232263" target="_blank" rel="noopener">Presentation</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"Research Data Management with FAIRmat and NOMAD,"</strong>
+<em>NFDI-MatWerk / FAIRmat Spring School 2026 - Research Data Management in Materials Science and Engineering</em>, Erlangen, Germany, <strong>2026</strong>
+<span class="pub-tag">Lecture</span>
+</p>
+<div class="pub-links">
+<a href="https://www.eusmat.net/research/other-events/nfdi-spring-school-2026/" target="_blank" rel="noopener">Program</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"NOMAD: A FAIR Data Infrastructure for Materials Research and Development,"</strong>
+<em>E-MRS 2026 Spring Meeting - Industrial Forum</em>, Strasbourg, France, <strong>2026</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+</div>
+</div>
 </div>
 
-<!-- Patents -->
-<div class="pub-category-content" data-cat="patents">
-<h3>No patents added yet.</h3>
+<!-- 2025 -->
+<div class="year-section">
+<button class="year-toggle">2025</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"Building FAIR Data Literacy: Using Building-Brick Toys to Teach the FAIR Data Principles,"</strong>
+<em>TEACH V - Talking about Education Across Communities at Helmholtz</em>, HIDA Hub, Berlin, Germany, <strong>2025</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.17238104" target="_blank" rel="noopener">Presentation</a>
+<a href="https://events.hifis.net/event/2331/timetable/#20250929.detailed" target="_blank" rel="noopener">Program</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"NOMAD: Advancing Materials Research Through a FAIR Data Management Ecosystem,"</strong>
+<em>E-MRS 2025 Spring Meeting - Industrial Forum</em>, Strasbourg, France, <strong>2025</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+<div class="pub-links">
+<a href="https://www.european-mrs.com/meetings/2025-spring/industrial-forum" target="_blank" rel="noopener">Program</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"NOMAD: A Platform for Managing Research Data in Materials Science,"</strong>
+<em>Love Data Week 2025</em>, <strong>2025</strong>
+<span class="pub-tag">Lecture</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.14850203" target="_blank" rel="noopener">Presentation</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong> and L. Pielsticker
+<strong class="pub-title">"Research Data Management with FAIRmat and NOMAD,"</strong>
+<em>Research Data Management Workshop of DFG Research Unit FOR 5065 (ELSICS)</em>, Philipps-Universitaet Marburg, Marburg, Germany, <strong>2025</strong>
+<span class="pub-tag">Workshop</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.17296312" target="_blank" rel="noopener">Presentation</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2024 -->
+<div class="year-section">
+<button class="year-toggle">2024</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"FAIR Research Data Management in Materials Science with FAIRmat and NOMAD,"</strong>
+<em>10th RUHR-Symposium - Artificial Intelligence for Functional Materials</em>, Duisburg, Germany, <strong>2024</strong>
+<span class="pub-tag">Invited Talk</span>
+</p>
+<div class="pub-links">
+<a href="https://ruhr-symposium.de/ruhr-symposium-program-2024/" target="_blank" rel="noopener">Program</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2023 -->
+<div class="year-section">
+<button class="year-toggle">2023</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"FAIR data infrastructure with enhanced functionality and domain-specific applications,"</strong>
+<em>DAPHNE4NFDI Annual Meeting 2024</em>, Dresden, Germany, <strong>2024</strong>
+<span class="pub-tag">Poster</span>
+</p>
+<div class="pub-links">
+<a href="https://www.nc.nat.uni-erlangen.de/DAPHNE4NFDI_Annual_Meeting_2024/print.php?accessId=&id=65cf89558e0121.43721031" target="_blank" rel="noopener">Poster</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, L. Rotheray, K. Helbig, S. Botti, H. B. Weber, M. Aeschlimann, and C. Draxl
+<strong class="pub-title">"FAIRmat Guide to Writing Data Management Plans: A Practical Guide for the Condensed-Matter Physics and Materials-Science Communities,"</strong>
+<em>1st Conference on Research Data Infrastructure (CoRDI 2023)</em>, Karlsruhe, Germany, <strong>2023</strong>, CoRDI2023-109
+<span class="pub-tag">Poster</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.8340445" target="_blank" rel="noopener">Poster</a>
+<a href="https://doi.org/10.52825/cordi.v1i.378" target="_blank" rel="noopener">Proceedings</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"Introduction of FAIRmat,"</strong>
+<em>1st Conference on Digital Transformation in Materials Science and Engineering - NFDI-MatWerk Conference 2023</em>, Siegburg, Germany, <strong>2023</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+<div class="pub-links">
+<a href="https://nfdi-matwerk.de/nfdi/2023/program/scientific-program" target="_blank" rel="noopener">Program</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2022 -->
+<div class="year-section">
+<button class="year-toggle">2022</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, A. M. Valencia, D. Lungwitz, B. Wegner, N. Tanaka, Y. Shoji, T. Fukushima, A. Opitz, C. Cocchi, and N. Koch
+<strong class="pub-title">"The Signatures of Polarons and Bipolarons in the Raman Spectrum of Molecularly P-Doped poly(3-hexylthiophene-2,5-diyl)"</strong>,
+<em>2022 MRS Spring Meeting & Exhibit</em>, Symposium EQ03 - Next-Generation Organic Semiconductors: Materials, Fundamentals and Applications, Honolulu, Hawaii, USA, <strong>2022</strong>, EQ03.04.01
+<span class="pub-tag">Poster</span>
+</p>
+<div class="pub-links">
+<a href="https://www.mrs.org/docs/default-source/meetings-events/spring-meetings/2022/program.pdf?sfvrsn=469d650e_6" target="_blank" rel="noopener">Abstract</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2020 -->
+<div class="year-section">
+<button class="year-toggle">2020</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, H. Kim, S. Park, T. Schultz, D. X. Cao, T.-Q. Nguyen, W. Bruetting, A. Opitz, and N. Koch
+<strong class="pub-title">"Conductive Polymer Work Function Changes Due to Residual Water: Impact of Water's Temperature-Dependent Dielectric Constant"</strong>,
+<em>2020 Virtual MRS Fall Meeting</em>, Symposium EL07 - Electronic Materials, <strong>2020</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+<div class="pub-links">
+<a href="https://www.mrs.org/docs/default-source/meetings-events/fall-meetings/2020/2020-mrs-fall-meeting-abstracts.pdf?sfvrsn=e51be00c_4" target="_blank" rel="noopener">Abstract</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2019 -->
+<div class="year-section">
+<button class="year-toggle">2019</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, D. Lungwitz, T. Schultz, M. Arvind, A. Opitz, D. Neher, and N. Koch
+<strong class="pub-title">"The Optical Signatures of Doped Poly(3-hexylthiophene) Aggregates and Isolated Chains"</strong>,
+<em>14th International Symposium on Functional pi-Electron Systems (FPI14)</em>, Berlin, Germany, <strong>2019</strong>
+<span class="pub-tag">Poster</span>
+</p>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, D. Lungwitz, T. Schultz, A. Opitz, and N. Koch
+<strong class="pub-title">"Differentiation between the Optical Signatures of Aggregates and of Isolated Chains in Doped P3HT Solutions"</strong>,
+<em>DPG Spring Meeting</em>, Regensburg, Germany, <strong>2019</strong>, CPP 3.11
+<span class="pub-tag">Contributed Talk</span>
+</p>
+<div class="pub-links">
+<a href="https://www.dpg-verhandlungen.de/year/2019/conference/regensburg/part/cpp/session/3/contribution/11" target="_blank" rel="noopener">Abstract</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2018 -->
+<div class="year-section">
+<button class="year-toggle">2018</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, D. Lungwitz, A. Opitz, and N. Koch
+<strong class="pub-title">"Investigating the Electronic Structure and Chemical Interactions in Doped Poly(3-hexylthiophene) with the Lewis Acid Dopant Tris(pentafluorophenyl)borane"</strong>,
+<em>9th Workshop on Advanced Spectroscopy of Organic Materials for Electronic Applications (ASOMEA-IX)</em>, Schluchsee, Germany, <strong>2018</strong>, Poster P24
+<span class="pub-tag">Poster</span>
+</p>
+<div class="pub-links">
+<a href="http://asomea9.internal-interfaces.de/wp-content/uploads/2018/10/Abstract_Book_ASOMEA-IX_reduc.pdf" target="_blank" rel="noopener">Abstract</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2017 -->
+<div class="year-section">
+<button class="year-toggle">2017</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, A. R. Kirmani, S. Barlow, S. R. Marder, and A. Amassian
+<strong class="pub-title">"Hybrid Doping Strategy for Few-Layer Graphene via a Combination of Intercalation and Surface Doping"</strong>,
+<em>2017 MRS Fall Meeting</em>, Symposium EM1 - Organic Semiconductors: Surface, Interface, Bulk Doping and Charge Transport, Boston, USA, <strong>2017</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong> and A. Amassian
+<strong class="pub-title">"Non-Covalent Chemical Doping Strategies of Few-Layer Graphene Towards Enhanced Electrical Conductivity and Tunable Work Function"</strong>,
+<em>Frontiers in Theoretical and Applied Physics (FTAPS 2017)</em>, Sharjah, UAE, <strong>2017</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+</div>
+</div>
+</div>
+
+<!-- 2016 -->
+<div class="year-section">
+<button class="year-toggle">2016</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, H. Hu, S. Dey, D. Corzo, R. Munir, A. El Labban, and A. Amassian
+<strong class="pub-title">"High Performing Transparent Conductive Electrodes Based on Intercalated Few Layers Graphene"</strong>,
+<em>2016 MRS Fall Meeting</em>, Symposium NM3, Boston, USA, <strong>2016</strong>
+<span class="pub-tag">Poster</span>
+</p>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, M. M. Said, S. Dey, S. Zhang, H. Hu, R. Munir, Y. Zhang, K. Moudgil, S. Barlow, S. R. Marder, and A. Amassian
+<strong class="pub-title">"Molecular Electronic Doping of Transparent Conductive Few-Layer Graphene Films via Metal-Organic Complexes"</strong>,
+<em>2016 MRS Spring Meeting</em>, Symposium EE1 - Emerging Materials and Phenomena for Solar Energy Conversion, Phoenix, USA, <strong>2016</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, M. M. Said, S. Dey, S. Zhang, H. Hu, R. Munir, Y. Zhang, K. Moudgil, S. Barlow, S. R. Marder, and A. Amassian
+<strong class="pub-title">"Solution-Based Doping and Work Function Modification of Few-Layer Graphene for Application as Transparent Conducting Electrodes"</strong>,
+<em>KAUST-NSF Conference on Electronic Materials, Devices and Systems for a Sustainable Future</em>, Thuwal, Saudi Arabia, <strong>2016</strong>
+<span class="pub-tag">Contributed Talk</span>
+</p>
+</div>
+</div>
+</div>
+
+<!-- 2015 -->
+<div class="year-section">
+<button class="year-toggle">2015</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, S. Dey, M. H. Tanielian, and A. Amassian
+<strong class="pub-title">"Bromination of Few-Layer Graphene: A New Route to Making High Performance Transparent Conducting Electrodes with Low Optical Losses"</strong>,
+<em>KAUST Solar Future</em>, Thuwal, Saudi Arabia, <strong>2015</strong>
+<span class="pub-tag">Poster</span>
+</p>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, S. Dey, M. H. Tanielian, and A. Amassian
+<strong class="pub-title">"Bromination of Few-Layer Graphene: A New Route to Making High Performance Transparent Conducting Electrodes with Low Optical Losses"</strong>,
+<em>2015 MRS Fall Meeting</em>, Symposium NN15, Boston, USA, <strong>2015</strong>
+<span class="pub-tag">Poster</span>
+</p>
+</div>
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, M. H. Tanielian, and A. Amassian
+<strong class="pub-title">"Bromination of Graphene: A New Route to Making High Performance Transparent Conducting Electrodes with Low Optical Losses"</strong>,
+<em>SPIE NanoScience + Engineering</em>, San Diego, USA, <strong>2015</strong>, Paper 9552-9
+<span class="pub-tag">Contributed Talk</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.1117/12.2187273" target="_blank" rel="noopener">Online Proceedings</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2012 -->
+<div class="year-section">
+<button class="year-toggle">2012</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, representing the KAUST MRS Student Chapter
+<strong class="pub-title">"Sustainability Forum: Practical Aspects of Interdisciplinary"</strong>,
+<em>2012 MRS Fall Meeting</em>, Symposium G, Boston, USA, <strong>2012</strong>
+<span class="pub-tag">Panel</span>
+</p>
+</div>
+</div>
+</div>
+
+<!-- 2011 -->
+<div class="year-section">
+<button class="year-toggle">2011</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, H. Khan, N. Wang, M. N. Hedhili, A. Al Ahmari, L. Abdulhalim, K. Komvopoulos, and A. Amassian
+<strong class="pub-title">"Fabrication and Characterization of Ultra-Thin Carbon Overcoats on Magnetic Storage Media"</strong>,
+<em>Conference on Innovative Materials and Applications (CIMA2011)</em>, Beirut, Lebanon, <strong>2011</strong>
+<span class="pub-tag">Poster</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Theses -->
+<div class="pub-category-content" data-cat="theses">
+<!-- 2016 -->
+<div class="year-section">
+<button class="year-toggle">2016</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"Versatile and Tunable Transparent Conducting Electrodes Based on Doped Graphene"</strong>,
+King Abdullah University of Science and Technology (KAUST), <strong>2016</strong>
+<span class="pub-tag">PhD Dissertation</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.25781/KAUST-8BZN4" target="_blank" rel="noopener">DOI</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2011 -->
+<div class="year-section">
+<button class="year-toggle">2011</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"Structural Analysis of Planar sp3 and sp2 Films: Diamond-like Carbon and Graphene Overlayers"</strong>,
+King Abdullah University of Science and Technology (KAUST), <strong>2011</strong>
+<span class="pub-tag">Master's Thesis</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.25781/KAUST-VFZT7" target="_blank" rel="noopener">DOI</a>
+</div>
+</div>
+</div>
+</div>
 </div>
 
 <!-- Others -->
 <div class="pub-category-content" data-cat="others">
+<!-- 2026 -->
+<div class="year-section">
+<button class="year-toggle">2026</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>, Y. Demerdash, X.-R. Zhou, A. Leidel, M. Reidelbach, C. Langenbach, L. J. Castro, J. Watson, N. Vishen, and J. Windeck
+<strong class="pub-title">"DMP Evaluation Criteria - Focus on Project-Lifecycle, Research Discipline and AI-Assisted Evaluations,"</strong>
+<em>Zenodo</em>, <strong>2026</strong>
+<span class="pub-tag">Preprint</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.19630859" target="_blank" rel="noopener">DOI</a>
+</div>
+</div>
+<div class="publication">
+<p class="pub-line">
+Ö. Özkan, <strong>A. E. Mansour</strong>, and V. Biniyaminov
+<strong class="pub-title">"Challenges in Data Reusability,"</strong>
+<em>Love Data Week 2026</em>, <strong>2026</strong>
+<span class="pub-tag">Workshop Materials</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.18788185" target="_blank" rel="noopener">DOI</a>
+</div>
+</div>
+</div>
+</div>
+
 <!-- 2024 -->
 <div class="year-section">
 <button class="year-toggle">2024</button>
@@ -745,6 +1167,24 @@ data-toc="assets/images/TOC/25.png"
 data-abstract="In this guide, we will provide you with comprehensive information and practical tips specific to the fields of condensed-matter physics and materials science on creating a data management plan (DMP) that meets the DFG requirements and aligns your research with the FAIR data principles, the DFG code of conduct, and the EU open science policy. We will take you through the essential components of a DMP, provide tips on data management best practices, and offer guidance on appropriate tools and technologies. By the end of this guide, you will have the knowledge and tools necessary to create a thorough and effective DMP that not only meets the requirements of the DFG but also supports the long-term success of your research project. This guide follows the sections in the DFG checklist, and the questions to be addressed as required by the DFG are listed after each section. Although this guide is based on the requirements of the DFG, the information is not exclusive to any specific funding agency and can be used as a general guide for other research areas. Before preparing a DMP for your project, make sure to check the specific requirements for your funding agency, discipline, and research institution.">
 Abstract
 </button>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2018 -->
+<div class="year-section">
+<button class="year-toggle">2018</button>
+<div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong> and A. Amassian
+<strong class="pub-title">"Compositions and Methods of Forming Hybrid Doped Few-Layer Graphene"</strong>,
+WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659, October 25, 2016.
+<span class="pub-tag">Patent Application</span>
+</p>
+<div class="pub-links">
+<a href="https://repository.kaust.edu.sa/handle/10754/629666" target="_blank" rel="noopener">Repository Record</a>
 </div>
 </div>
 </div>

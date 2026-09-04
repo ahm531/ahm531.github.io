@@ -11,6 +11,52 @@ permalink: /publications.html
     padding: 0 1rem;
   }
 
+  .pub-summary {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(120px, 1fr));
+    gap: 0.85rem;
+    margin: 0 0 1.5rem;
+  }
+
+  .pub-summary-card {
+    background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+    border: 1px solid #e5e7eb;
+    border-radius: 18px;
+    padding: 0.9rem 1rem;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 86px;
+  }
+
+  .pub-summary-card strong {
+    font-family: 'Oswald', sans-serif;
+    font-size: clamp(1.4rem, 2vw, 2rem);
+    line-height: 1.1;
+    color: #0f172a;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .pub-summary-label {
+    display: block;
+    margin-bottom: 0.3rem;
+    color: #475569;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .pub-summary-total {
+    background: linear-gradient(135deg, rgba(15, 118, 110, 0.14), rgba(15, 118, 110, 0.04));
+    border-color: rgba(15, 118, 110, 0.25);
+  }
+
+  .pub-summary-total strong {
+    color: #0f766e;
+  }
+
   .pub-categories {
     display: flex;
     gap: 0.75rem;
@@ -53,6 +99,11 @@ permalink: /publications.html
 
   .pub-category-content.active {
     display: block;
+  }
+
+  .pub-category-content[data-cat="theses"] .year-toggle {
+    cursor: default;
+    pointer-events: none;
   }
 
   .year-section {
@@ -248,6 +299,29 @@ permalink: /publications.html
 </style>
 
 <div class="publications-container">
+<div class="pub-summary" aria-label="Publication counts">
+  <div class="pub-summary-card pub-summary-total">
+    <span class="pub-summary-label">Total</span>
+    <strong id="pub-total-count">0</strong>
+  </div>
+  <div class="pub-summary-card">
+    <span class="pub-summary-label">Journal articles</span>
+    <strong data-count-group="journal">0</strong>
+  </div>
+  <div class="pub-summary-card">
+    <span class="pub-summary-label">Presentations</span>
+    <strong data-count-group="presentations">0</strong>
+  </div>
+  <div class="pub-summary-card">
+    <span class="pub-summary-label">Theses</span>
+    <strong data-count-group="theses">0</strong>
+  </div>
+  <div class="pub-summary-card">
+    <span class="pub-summary-label">Others</span>
+    <strong data-count-group="others">0</strong>
+  </div>
+</div>
+
 <!-- Categories -->
 <nav class="pub-categories">
 <button class="active" data-cat="journal">Journal Articles</button>
@@ -816,13 +890,6 @@ Abstract
 <a href="https://ruhr-symposium.de/ruhr-symposium-program-2024/" target="_blank" rel="noopener">Program</a>
 </div>
 </div>
-</div>
-</div>
-
-<!-- 2023 -->
-<div class="year-section">
-<button class="year-toggle">2023</button>
-<div class="pub-list">
 <div class="publication">
 <p class="pub-line">
 <strong>A. E. Mansour</strong>
@@ -834,6 +901,13 @@ Abstract
 <a href="https://www.nc.nat.uni-erlangen.de/DAPHNE4NFDI_Annual_Meeting_2024/print.php?accessId=&id=65cf89558e0121.43721031" target="_blank" rel="noopener">Poster</a>
 </div>
 </div>
+</div>
+</div>
+
+<!-- 2023 -->
+<div class="year-section">
+<button class="year-toggle">2023</button>
+<div class="pub-list">
 <div class="publication">
 <p class="pub-line">
 <strong>A. E. Mansour</strong>, L. Rotheray, K. Helbig, S. Botti, H. B. Weber, M. Aeschlimann, and C. Draxl
@@ -900,6 +974,17 @@ Abstract
 <div class="year-section">
 <button class="year-toggle">2019</button>
 <div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"Photoelectron Spectroscopy as a Tool to Investigate the Chemical Doping of Organic Semiconductors"</strong>,
+<em>HERCULES@SESAME</em>, SESAME, Amman, Jordan, <strong>2 November 2019</strong>
+<span class="pub-tag">Invited Lecture</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.22313131" target="_blank" rel="noopener">Presentation</a>
+</div>
+</div>
 <div class="publication">
 <p class="pub-line">
 <strong>A. E. Mansour</strong>, D. Lungwitz, T. Schultz, M. Arvind, A. Opitz, D. Neher, and N. Koch
@@ -1120,7 +1205,7 @@ King Abdullah University of Science and Technology (KAUST), <strong>2011</strong
 Ö. Özkan, <strong>A. E. Mansour</strong>, and V. Biniyaminov
 <strong class="pub-title">"Challenges in Data Reusability,"</strong>
 <em>Love Data Week 2026</em>, <strong>2026</strong>
-<span class="pub-tag">Workshop Materials</span>
+<span class="pub-tag">Workshop Material</span>
 </p>
 <div class="pub-links">
 <a href="https://doi.org/10.5281/zenodo.18788185" target="_blank" rel="noopener">DOI</a>
@@ -1135,9 +1220,10 @@ King Abdullah University of Science and Technology (KAUST), <strong>2011</strong
 <div class="pub-list">
 <div class="publication">
 <p class="pub-line">
-S. Nakhaie, <strong>A. E. Mansour</strong>, K. Helbig, M. Bierwirth, C. Draxl, M. Aeschlimann
-<strong class="pub-title">“FAIRmat Guide to Legal Aspects in Research Data Management”</strong>,
-Zenodo, <strong>2024</strong>
+S. Nakhaie, <strong>A. E. Mansour</strong>, K. Helbig, M. Bierwirth, C. Draxl, and M. Aeschlimann
+<strong class="pub-title">"FAIRmat Guide to Legal Aspects in Research Data Management"</strong>,
+<em>Zenodo</em>, <strong>2024</strong>
+<span class="pub-tag">Guidance</span>
 </p>
 <div class="pub-links">
 <a href="https://doi.org/10.5281/zenodo.11083303" target="_blank" rel="noopener">DOI</a>
@@ -1156,9 +1242,10 @@ Abstract
 <div class="pub-list">
 <div class="publication">
 <p class="pub-line">
-<strong>A. E. Mansour</strong>, L. Rotheray, K. Helbig, S. Botti, H. B. Weber, M. Aeschlimann, Martin, C. Draxl
-<strong class="pub-title">“FAIRmat, Guide to Writing a Research Data Management Plan”</strong>,
-Zenodo, <strong>2023</strong>
+<strong>A. E. Mansour</strong>, L. Rotheray, K. Helbig, S. Botti, H. B. Weber, M. Aeschlimann, and C. Draxl
+<strong class="pub-title">"FAIRmat Guide to Writing a Research Data Management Plan"</strong>,
+<em>Zenodo</em>, <strong>2023</strong>
+<span class="pub-tag">Guidance</span>
 </p>
 <div class="pub-links">
 <a href="https://doi.org/10.5281/zenodo.7936477" target="_blank" rel="noopener">DOI</a>
@@ -1205,6 +1292,28 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
     const categoryButtons = document.querySelectorAll('.pub-categories button');
     const sections = document.querySelectorAll('.pub-category-content');
 
+    function updatePublicationCounts() {
+      const categoryKeys = ['journal', 'presentations', 'theses', 'others'];
+      let total = 0;
+
+      categoryKeys.forEach(cat => {
+        const count = document.querySelectorAll(`.pub-category-content[data-cat="${cat}"] .publication`).length;
+        total += count;
+
+        const value = document.querySelector(`[data-count-group="${cat}"]`);
+        if (value) {
+          value.textContent = count;
+        }
+      });
+
+      const totalValue = document.getElementById('pub-total-count');
+      if (totalValue) {
+        totalValue.textContent = total;
+      }
+    }
+
+    updatePublicationCounts();
+
     function openFirstYear(section) {
       const lists = section.querySelectorAll('.pub-list');
       if (!lists.length) {
@@ -1222,12 +1331,31 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
       }
     }
 
+    function openAllYears(section) {
+      const yearSections = section.querySelectorAll('.year-section');
+      yearSections.forEach(yearSection => {
+        const list = yearSection.querySelector('.pub-list');
+        const toggle = yearSection.querySelector('.year-toggle');
+        if (!list) {
+          return;
+        }
+        list.classList.add('active');
+        if (toggle) {
+          toggle.setAttribute('aria-expanded', 'true');
+        }
+      });
+    }
+
     function setActiveCategory(cat) {
       sections.forEach(section => {
         const isMatch = section.dataset.cat === cat;
         section.classList.toggle('active', isMatch);
         if (isMatch) {
-          openFirstYear(section);
+          if (cat === 'theses') {
+            openAllYears(section);
+          } else {
+            openFirstYear(section);
+          }
         }
       });
     }
@@ -1245,8 +1373,16 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
 
     document.querySelectorAll('.year-toggle').forEach(btn => {
       const list = btn.nextElementSibling;
+      const isThesisTab = btn.closest('.pub-category-content')?.dataset.cat === 'theses';
       btn.setAttribute('type', 'button');
-      btn.setAttribute('aria-expanded', 'false');
+      btn.setAttribute('aria-expanded', isThesisTab ? 'true' : 'false');
+
+      if (isThesisTab) {
+        if (list) {
+          list.classList.add('active');
+        }
+        return;
+      }
 
       btn.addEventListener('click', () => {
         const isOpen = list.classList.toggle('active');

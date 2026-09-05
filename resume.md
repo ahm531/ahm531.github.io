@@ -27,13 +27,12 @@ permalink: /resume.html
     <div class="skills">
       <h2>Skills</h2>
       <ul>
-        <li>Research data management &amp; FAIR data</li>
-        <li>Scientific data infrastructure</li>
+        <li>Strategic planning</li>
         <li>Project management</li>
-        <li>Outreach &amp; training</li>
-        <li>Scientific communication</li>
-        <li>Materials science &amp; characterization</li>
-        <li>Python, Git/GitHub, HTML/CSS</li>
+        <li>Research data management</li>
+        <li>Capacity building</li>
+        <li>Community engagement</li>
+        <li>Materials characterization</li>
       </ul>
     </div>
 

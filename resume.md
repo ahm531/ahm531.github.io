@@ -7,22 +7,25 @@ permalink: /resume.html
 <div class="body-container">
   <div class="profile-image">
     <img src="{{ '/assets/images/personal.jpg' | relative_url }}" alt="Ahmed E. Mansour" />
-    <a href="https://www.linkedin.com/in/ahm531/" class="profile-link" target="_blank" rel="noopener">
-      <img src="{{ '/assets/images/linkedin.png' | relative_url }}" alt="LinkedIn Icon" class="profile-icon" />
-      LinkedIn profile
-    </a>
-    <a href="https://orcid.org/0000-0002-3411-6808" class="profile-link" target="_blank" rel="noopener">
-      <img src="{{ '/assets/images/ORCID_iD.jpg' | relative_url }}" alt="ORCID Icon" class="profile-icon" />
-      0000-0002-3411-6808
-    </a>
-    <a href="https://github.com/ahm531" class="profile-link" target="_blank" rel="noopener">
-      <img src="{{ '/assets/images/github.svg' | relative_url }}" alt="GitHub Icon" class="profile-icon" />
-      /ahm531
-    </a>
-    <a href="mailto:ahm531@proton.me" class="profile-link" target="_blank" rel="noopener">
-      <img src="{{ '/assets/images/email.png' | relative_url }}" alt="Email Icon" class="profile-icon" />
-      ahm531@proton.me
-    </a>
+
+    <div class="profile-links">
+      <a href="https://www.linkedin.com/in/ahm531/" class="profile-link" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/linkedin.png' | relative_url }}" alt="LinkedIn Icon" class="profile-icon" />
+        LinkedIn profile
+      </a>
+      <a href="https://orcid.org/0000-0002-3411-6808" class="profile-link" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/ORCID_iD.jpg' | relative_url }}" alt="ORCID Icon" class="profile-icon" />
+        0000-0002-3411-6808
+      </a>
+      <a href="https://github.com/ahm531" class="profile-link" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/github.svg' | relative_url }}" alt="GitHub Icon" class="profile-icon" />
+        /ahm531
+      </a>
+      <a href="mailto:ahm531@proton.me" class="profile-link" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/email.png' | relative_url }}" alt="Email Icon" class="profile-icon" />
+        ahm531@proton.me
+      </a>
+    </div>
 
     <div class="skills">
       <h2>Skills</h2>

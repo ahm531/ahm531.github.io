@@ -508,13 +508,22 @@ nav a:hover {
   background: #eef2f7;
 }
 
+.body-container > .profile-image .profile-links {
+  margin-top: 1.25rem;
+  display: grid;
+  gap: 0.6rem;
+}
+
 .body-container > .profile-image .profile-link {
   display: grid;
   grid-template-columns: 32px minmax(0, 1fr);
   align-items: center;
   column-gap: 0.7rem;
-  padding: 0.55rem 0;
+  padding: 0.55rem 0.45rem;
   margin-top: 0;
+  border-radius: 14px;
+  background: #f8fafc;
+  border: 1px solid transparent;
 }
 
 .body-container > .profile-image .profile-icon {

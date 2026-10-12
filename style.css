@@ -285,6 +285,163 @@ nav a:hover {
   color: #005a50;
 }
 
+/* — Modal for TOC + abstract — */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.3s ease;
+  z-index: 1000;
+}
+.modal-overlay.active {
+  visibility: visible;
+  opacity: 1;
+}
+.modal {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  max-width: 1500px;
+  width: 90%;
+  position: relative;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.modal-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.modal img {
+  max-width: 30%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+.modal p {
+  line-height: 1.5;
+}
+
+/* — Professional Experience two‑column items — */
+.resume-section {
+  width: 100%;
+  max-width: none;
+  margin: 0rem 0;
+  padding: 0 2rem;
+}
+.resume-section h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+.resume-item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+.exp-meta {
+  flex: 0 0 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+.exp-logo {
+  width: 100%;
+  max-width: 100px;
+  height: auto;
+  object-fit: contain;
+  align-self: center;
+}
+.exp-date {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.exp-details {
+  flex: 1;
+}
+.exp-institute {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+.exp-group a {
+  font-size: 1rem;
+  text-decoration: none;
+  color: #007c70;
+}
+.exp-group a:hover {
+  text-decoration: underline;
+}
+.exp-position {
+  font-style: italic;
+  margin: 0.5rem 0;
+}
+.exp-description ul {
+  margin-left: 1.25rem;
+  list-style-type: disc;
+}
+.exp-description li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.section-back-to-top {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 1.5rem;
+  padding: 0 2rem;
+}
+
+.section-back-to-top a {
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid #d8e2ec;
+  background: #f7fafc;
+  color: #0f766e;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+}
+
+.section-back-to-top a:hover {
+  background: #edf7f6;
+  border-color: #b7d9d6;
+  transform: translateY(-1px);
+}
+
+/* — Responsive: stack meta above details on narrow screens — */
+@media (max-width: 600px) {
+  .experience-item {
+    flex-direction: column;
+  }
+  .exp-meta {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+  }
+  .exp-meta .exp-date,
+  .exp-meta .exp-location {
+    margin-right: 1rem;
+  }
+}
+
 /* — LOGO NAVIGATOR — */
 .logo-section {
   width: min(1200px, calc(100% - 2rem));
@@ -358,6 +515,67 @@ nav a:hover {
 .profile-image {
   grid-area: profile;
   padding: 1.5rem;
+}
+
+.profile-image img {
+  width: 100%;
+  max-width: 230px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.12);
+}
+
+.profile-link {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.45rem 0.2rem;
+  margin-top: 0.15rem;
+  text-decoration: none;
+  color: #0f172a;
+  font-size: 0.95rem;
+  border-bottom: 1px solid #eef2f7;
+  transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.profile-link:hover {
+  color: #0f766e;
+  transform: translateX(2px);
+}
+
+.profile-icon {
+  width: 26px !important;
+  height: 26px !important;
+  flex: 0 0 26px;
+  padding: 0.22rem;
+  border-radius: 999px;
+  background: #eef2f7;
+}
+
+.body-container > .profile-image .profile-links {
+  margin-top: 1.25rem;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.body-container > .profile-image .profile-link {
+  display: grid;
+  grid-template-columns: 32px minmax(0, 1fr);
+  align-items: center;
+  column-gap: 0.7rem;
+  padding: 0.55rem 0.45rem;
+  margin-top: 0;
+  border-radius: 14px;
+  background: #f8fafc;
+  border: 1px solid transparent;
+}
+
+.body-container > .profile-image .profile-icon {
+  justify-self: center;
+  width: 24px !important;
+  height: 24px !important;
+  flex: 0 0 24px;
 }
 
 .skills {

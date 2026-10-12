@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: Publications
+description: Research articles, presentations, theses, and research data management resources by Ahmed E. Mansour.
 permalink: /publications.html
 ---
 
@@ -220,8 +221,16 @@ permalink: /publications.html
   }
 
   .modal-overlay {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    max-width: none;
+    max-height: none;
+    color: inherit;
     position: fixed;
     inset: 0;
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -265,8 +274,13 @@ permalink: /publications.html
     cursor: pointer;
   }
 
+  .modal [hidden] { display: none; }
+
+  .modal h2 { padding-right: 2rem; }
+
   .modal img {
     width: 100%;
+    max-width: 100%;
     height: auto;
     margin: 0.75rem 0 1rem;
     border-radius: 14px;
@@ -323,7 +337,7 @@ permalink: /publications.html
 </div>
 
 <!-- Categories -->
-<nav class="pub-categories">
+<nav class="pub-categories" aria-label="Publication categories">
 <button class="active" data-cat="journal">Journal Articles</button>
 <button data-cat="presentations">Presentations</button>
 <button data-cat="theses">Theses</button>
@@ -790,6 +804,18 @@ Abstract
 <div class="year-section">
 <button class="year-toggle">2026</button>
 <div class="pub-list">
+<div class="publication">
+<p class="pub-line">
+<strong>A. E. Mansour</strong>
+<strong class="pub-title">"FAIR Research Data Management with NOMAD and FAIRmat,"</strong>
+<em>TCO 2026</em>, Leipzig, Germany, <strong>2026</strong>
+<span class="pub-tag">Invited Tutorial</span>
+</p>
+<div class="pub-links">
+<a href="https://doi.org/10.5281/zenodo.23289159" target="_blank" rel="noopener">Presentation</a>
+<a href="https://research.uni-leipzig.de/hlp/TCO2026/" target="_blank" rel="noopener">Program</a>
+</div>
+</div>
 <div class="publication">
 <p class="pub-line">
 <strong>A. E. Mansour</strong>
@@ -1279,13 +1305,14 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
 
 </div>
 
-<div class="modal-overlay" id="pub-modal" aria-hidden="true">
-  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-abstract">
+<dialog class="modal-overlay" id="pub-modal" aria-labelledby="modal-title">
+  <div class="modal">
+    <h2 id="modal-title">Publication abstract</h2>
     <button class="modal-close" id="modal-close" type="button" aria-label="Close modal">&times;</button>
-    <img src="" alt="TOC Figure" id="modal-toc" />
+    <img alt="Graphical abstract" id="modal-toc" hidden />
     <p id="modal-abstract"></p>
   </div>
-</div>
+</dialog>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
@@ -1320,7 +1347,10 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
         return;
       }
 
-      lists.forEach(list => list.classList.remove('active'));
+      lists.forEach(list => {
+        list.classList.remove('active');
+        list.previousElementSibling.setAttribute('aria-expanded', 'false');
+      });
 
       const firstList = lists[0];
       const firstToggle = firstList.previousElementSibling;
@@ -1347,6 +1377,9 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
     }
 
     function setActiveCategory(cat) {
+      categoryButtons.forEach(button => {
+        button.setAttribute('aria-pressed', String(button.dataset.cat === cat));
+      });
       sections.forEach(section => {
         const isMatch = section.dataset.cat === cat;
         section.classList.toggle('active', isMatch);
@@ -1371,7 +1404,7 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
       });
     });
 
-    document.querySelectorAll('.year-toggle').forEach(btn => {
+    document.querySelectorAll('.year-toggle').forEach((btn, index) => {
       const list = btn.nextElementSibling;
       const isThesisTab = btn.closest('.pub-category-content')?.dataset.cat === 'theses';
       btn.setAttribute('type', 'button');
@@ -1395,20 +1428,36 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
     const modalAbs = document.getElementById('modal-abstract');
     const closeButton = document.getElementById('modal-close');
 
+    let previousOverflow = '';
+
     function closeModal() {
-      modal.classList.remove('active');
-      modal.setAttribute('aria-hidden', 'true');
-      document.body.style.overflow = '';
+      modal.close();
     }
+
+    modal.addEventListener('close', () => {
+      modal.classList.remove('active');
+      document.body.style.overflow = previousOverflow;
+    });
+
+    modal.addEventListener('cancel', event => {
+      event.preventDefault();
+      closeModal();
+    });
 
     document.querySelectorAll('.abstract-btn').forEach(btn => {
       btn.setAttribute('type', 'button');
       btn.addEventListener('click', () => {
-        modalToc.src = btn.dataset.toc;
-        modalToc.alt = btn.dataset.toc ? 'TOC Figure' : '';
+        modalToc.hidden = !btn.dataset.toc;
+        if (btn.dataset.toc) {
+          modalToc.src = btn.dataset.toc;
+        } else {
+          modalToc.removeAttribute('src');
+        }
         modalAbs.textContent = btn.dataset.abstract || '';
         modal.classList.add('active');
-        modal.setAttribute('aria-hidden', 'false');
+        previousOverflow = document.body.style.overflow;
+        modal.showModal();
+        closeButton.focus();
         document.body.style.overflow = 'hidden';
       });
     });
@@ -1416,12 +1465,6 @@ WO2018078514A1, published May 3, <strong>2018</strong>. Priority: US 62/412,659,
     closeButton.addEventListener('click', closeModal);
     modal.addEventListener('click', event => {
       if (event.target === modal) {
-        closeModal();
-      }
-    });
-
-    document.addEventListener('keydown', event => {
-      if (event.key === 'Escape' && modal.classList.contains('active')) {
         closeModal();
       }
     });

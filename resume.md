@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Resume
+title: Curriculum Vitae
+description: Professional experience, projects, education, and leadership of Ahmed E. Mansour, materials scientist and research data management professional.
 permalink: /resume.html
 ---
 
@@ -52,7 +53,7 @@ permalink: /resume.html
   <div class="body-text">
     <div id="top"></div>
     <div class="resume-anchor-list">
-      <a class="resume-chip" href="#professional-experience">Professional Experience</a>
+      <a class="resume-chip" href="#professional-experience">Experiene</a>
       <a class="resume-chip" href="#projects">Projects</a>
       <a class="resume-chip" href="#education">Education</a>
       <a class="resume-chip" href="#volunteer-work-and-leadership-roles">Leadership</a>
@@ -154,17 +155,25 @@ permalink: /resume.html
       <h2 id="projects">Projects</h2>
 
       <div class="resume-item">
+        <div class="exp-meta">
+          <div class="exp-date">2026 – Present</div>
+          <img src="{{ '/assets/images/hu.png' | relative_url }}" alt="Humboldt University logo" class="exp-logo" />
+        </div>
         <div class="exp-details">
-          <div class="exp-group">2026 –</div>
           <div class="exp-institute">Ready-PV - Reliability Evaluation through Analytics and Data for emerging technology in Photovoltaics</div>
           <div class="exp-group">Horizon Europe Research and Innovation Action | Humboldt-Universität zu Berlin</div>
-          <div class="exp-position">Principal Investigator</div>
+          <div class="exp-position">Principal Investigator at Humboldt-Universität zu Berlin | Task 3.1 Lead</div>
           <div class="exp-description">Leading HU activities in research data management, NOMAD-based data infrastructure, documentation, and training, including the project Data Management Plan, NOMAD/ELN documentation, and development of training resources.</div>
           <div class="exp-group">Grant Agreement: <a href="https://doi.org/10.3030/101293084" target="_blank" rel="noopener"><strong>101293084</strong></a></div>
         </div>
       </div>
 
       <div class="resume-item">
+        <div class="exp-meta">
+          <div class="exp-date">Oct 2013 – May 2015</div>
+          <img src="{{ '/assets/images/ksc.png' | relative_url }}" alt="KAUST Solar Center logo" class="exp-logo" />
+          <img src="{{ '/assets/images/BOEING.png' | relative_url }}" alt="Boeing logo" class="exp-logo" />
+        </div>
         <div class="exp-details">
           <div class="exp-institute">PhD. project with Boeing Research and Technology at KAUST | Thuwal, KSA</div>
           <div class="exp-group">May 2013 - May 2014</div>
@@ -174,6 +183,10 @@ permalink: /resume.html
       </div>
 
       <div class="resume-item">
+        <div class="exp-meta">
+          <div class="exp-date">Apr–May 2012</div>
+          <img src="{{ '/assets/images/imperial-college-london.png' | relative_url }}" alt="Imperial College London logo" class="exp-logo exp-logo-imperial" />
+        </div>
         <div class="exp-details">
           <div class="exp-institute">Internship at Imperial College | London, UK</div>
           <div class="exp-group">April - May 2012</div>
@@ -183,6 +196,10 @@ permalink: /resume.html
       </div>
 
       <div class="resume-item">
+        <div class="exp-meta">
+          <div class="exp-date">Sep 2010–Jun 2011</div>
+          <img src="{{ '/assets/images/ksc.png' | relative_url }}" alt="KAUST Solar Center logo" class="exp-logo" />
+        </div>
         <div class="exp-details">
           <div class="exp-institute">Directed research project at KAUST | Thuwal, KSA</div>
           <div class="exp-group">Sept 2010 - June 2011</div>
@@ -192,6 +209,10 @@ permalink: /resume.html
       </div>
 
       <div class="resume-item">
+        <div class="exp-meta">
+          <div class="exp-date">Jun–Aug 2009<br />Aug–Sep 2010</div>
+          <img src="{{ '/assets/images/ucb.svg' | relative_url }}" alt="University of California, Berkeley logo" class="exp-logo" />
+        </div>
         <div class="exp-details">
           <div class="exp-institute">Internship at the University of California, Berkeley (UCB) | California, USA</div>
           <div class="exp-group">June - Aug 2009 and Aug - Sept 2010</div>
@@ -201,6 +222,10 @@ permalink: /resume.html
       </div>
 
       <div class="resume-item">
+        <div class="exp-meta">
+          <div class="exp-date">Jun–Sep 2008</div>
+          <img src="{{ '/assets/images/UIUC.png' | relative_url }}" alt="University of Illinois Urbana-Champaign logo" class="exp-logo" />
+        </div>
         <div class="exp-details">
           <div class="exp-institute">Internship at the University of Illinois at Urbana-Champaign (UIUC) | Illinois, USA</div>
           <div class="exp-group">June - Sept 2008</div>
@@ -230,6 +255,11 @@ permalink: /resume.html
           <div class="exp-group">
             Thesis:
             <a href="https://doi.org/10.25781/KAUST-8BZN4" target="_blank" rel="noopener">Versatile and Tunable Transparent Conducting Electrodes based on Doped Graphene</a>
+          </div>
+          <div class="exp-description">
+            <ul>
+              <li>Co-authored <strong>5 peer-reviewed journal articles</strong> and delivered <strong>8 presentations at international conferences</strong>.</li>
+            </ul>
           </div>
         </div>
       </div>
@@ -274,40 +304,37 @@ permalink: /resume.html
 
       <div class="resume-item">
         <div class="exp-details">
-          <div class="exp-institute">Treasurer of the “academic writing workshop” at the MRS meeting, Boston, USA. (2016) – Raised $20k funding</div>
+          <div class="exp-institute"><strong>Treasurer, Academic Writing Workshop, MRS Fall Meeting, Boston, USA (2016)</strong>. Raised <strong>$20,000</strong> in funding. <a href="https://doi.org/10.1557/mrs.2017.175" target="_blank" rel="noopener">Featured in <em>MRS Bulletin</em></a></div>
         </div>
       </div>
 
       <div class="resume-item">
         <div class="exp-details">
-          <div class="exp-institute">Team leader for the Students activities working group of MRS University chapters subcommittee (2015-2016)</div>
+          <div class="exp-institute"><strong>Team Leader, Student Activities Working Group, MRS University Chapters Subcommittee (2015–2016)</strong></div>
         </div>
       </div>
 
       <div class="resume-item">
         <div class="exp-details">
-          <div class="exp-institute">Vice President of the MRS student chapter at KAUST (2013-2014)</div>
+          <div class="exp-institute"><strong>Vice President, <a href="https://mrschapter.kaust.edu.sa/people/alumni" target="_blank" rel="noopener">MRS Student Chapter at KAUST</a> (2013–2014)</strong></div>
         </div>
       </div>
 
       <div class="resume-item">
         <div class="exp-details">
-          <div class="exp-institute">
-            Founding officer of the first international MRS student chapter at KAUST, acting as inaugural treasurer.
-            <a href="https://doi.org/10.1557/mrs.2017.175" target="_blank" rel="noopener">(2012-2013)</a>
-          </div>
+          <div class="exp-institute"><strong>Founding Officer and Inaugural Treasurer, first international <a href="https://mrschapter.kaust.edu.sa/people/alumni" target="_blank" rel="noopener">MRS Student Chapter at KAUST</a> (2012–2013)</strong>. <a href="https://www.kaust.edu.sa/en/news/students-make-kaust-proud" target="_blank" rel="noopener">Featured in <em>The Beacon Magazine</em></a></div>
         </div>
       </div>
 
       <div class="resume-item">
         <div class="exp-details">
-          <div class="exp-institute">Member of the Liaison students team at the Civil Engineering department at the University of Jordan (2006-2009)</div>
+          <div class="exp-institute"><strong>Member, Student Liaison Team, Department of Civil Engineering, University of Jordan (2006–2009)</strong></div>
         </div>
       </div>
 
       <div class="resume-item">
         <div class="exp-details">
-          <div class="exp-institute">Founder and webmaster of www.ahm531.com, online web services for civil engineering students.</div>
+          <div class="exp-institute"><strong>Founder and Webmaster, <a href="https://web.archive.org/web/20111203184450/http://www.ahm531.com/index.html" target="_blank" rel="noopener">The Civil Engineering Center</a></strong>. An online resource for civil engineering students at the University of Jordan.</div>
         </div>
       </div>
     </section>
@@ -316,4 +343,5 @@ permalink: /resume.html
       <a href="#top">Back to top ↑</a>
     </div>
   </div>
+
 </div>

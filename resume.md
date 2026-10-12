@@ -34,9 +34,11 @@ permalink: /resume.html
           <div class="exp-position">Project coordinator / Junior group leader</div>
           <div class="exp-description">
             <ul>
-              <li>Coordinating outreach, training, and user support activities for the FAIRmat consortium.</li>
-              <li>Designing and delivering NOMAD-focused workshops, tutorials, and online learning materials.</li>
-              <li>Liaising with project partners to align communication strategies and incorporate user feedback.</li>
+              <li>Coordinate <strong>outreach, training, user engagement, and support</strong> for FAIRmat and the NOMAD research data infrastructure.</li>
+              <li>Develop and deliver <strong>RDM training, workshops, tutorials, and learning resources</strong>, promoting FAIR data practices and NOMAD adoption.</li>
+              <li>Build collaborations with <strong>research consortia, universities, and infrastructure initiatives</strong> to integrate FAIR data practices into research workflows.</li>
+              <li>Contributed to the <strong>coordination and strategic development of the FAIRmat II proposal</strong>, including proposal preparation and shaping activities in outreach, training, user support, and interconnectivity.</li>
+              <li>Prepared FAIRmat’s successful <strong>European Digital Skills Awards 2026 – Digital Upskilling @ Work</strong> application and represented the project at the award ceremony in Brussels.</li>
             </ul>
           </div>
         </div>
@@ -55,8 +57,9 @@ permalink: /resume.html
           <div class="exp-position">Postdoctoral researcher</div>
           <div class="exp-description">
             <ul>
-              <li>Investigation of the electronic structure of doped organic semiconductors using photoemission spectroscopy.</li>
-              <li>Implementation and evaluation of a new beamline and endstation at BESSY II.</li>
+              <li>Investigated <strong>molecular doping and electronic structure in organic semiconductors</strong>, with a focus on doping mechanisms, charge carriers, and work-function modification.</li>
+              <li>Applied <strong>photoelectron, optical, and Raman spectroscopy</strong>, complemented by collaborative theoretical studies, to correlate molecular interactions with electronic and optical properties.</li>
+              <li>Contributed to the <strong>development, setup, and performance evaluation of a new beamline and experimental endstation at BESSY II</strong>.</li>
               <li>Co-authored <strong>14 peer-reviewed journal articles</strong>.</li>
             </ul>
           </div>
@@ -76,7 +79,7 @@ permalink: /resume.html
           <div class="exp-position">Postdoctoral researcher</div>
           <div class="exp-description">
             <ul>
-              <li>Investigation of the electronic structure of doped organic semiconductors using photoemission spectroscopy.</li>
+              <li>Investigated <strong>molecular doping mechanisms and electronic structure in organic semiconductors</strong> using photoelectron spectroscopy, with a focus on doping-induced changes in energy levels, work function, and charge-carrier formation.</li>
               <li>Co-authored <strong>3 peer-reviewed journal articles</strong>.</li>
             </ul>
           </div>
@@ -96,8 +99,9 @@ permalink: /resume.html
           <div class="exp-position">Characterization equipment specialist</div>
           <div class="exp-description">
             <ul>
-              <li>Ensured uninterrupted, high‑standard experimental research by maintaining and calibrating characterization equipment.</li>
-              <li>Provided specialized technical support to students and researchers.</li>
+              <li>Managed the <strong>operation, maintenance, calibration, and troubleshooting of materials-characterization equipment</strong>, ensuring reliable instrument performance and research continuity.</li>
+              <li>Provided <strong>hands-on technical support and training</strong> to students and researchers in instrument operation, measurement protocols, and data acquisition.</li>
+              <li>Supported researchers in <strong>experimental planning and characterization workflows</strong> for materials and device research.</li>
               <li>Co-authored <strong>8 peer-reviewed journal articles</strong>.</li>
             </ul>
           </div>
@@ -121,15 +125,7 @@ permalink: /resume.html
           <div class="exp-institute">Ready-PV - Reliability Evaluation through Analytics and Data for emerging technology in Photovoltaics</div>
           <div class="exp-group">Horizon Europe Research and Innovation Action | Humboldt-Universität zu Berlin</div>
           <div class="exp-position">Principal Investigator at Humboldt-Universität zu Berlin | Task 3.1 Lead</div>
-          <div class="exp-description">
-            <ul>
-              <li>Lead <strong>Task 3.1: Training for NOMAD Data Management</strong>, coordinating FAIR research data-management training for consortium partners and external users.</li>
-              <li>Develop hands-on learning resources covering <strong>NOMAD Oasis, electronic lab notebooks, structured data ingestion, metadata, and JupyterHub analysis</strong>.</li>
-              <li>Coordinate <strong>train-the-trainer activities and community onboarding</strong> to support consistent data practices across participating research infrastructures.</li>
-              <li>Develop reusable documentation and open training resources, supporting the project's <strong>training handbook and public knowledge base</strong>.</li>
-              <li>Support development of the project's <strong>Research Data Management Plan (DMP, Deliverable D4.1)</strong>.</li>
-            </ul>
-          </div>
+          <div class="exp-description">Leading HU activities in research data management, NOMAD-based data infrastructure, documentation, and training, including the project Data Management Plan, NOMAD/ELN documentation, and development of training resources.</div>
           <div class="exp-group">Grant Agreement: <a href="https://doi.org/10.3030/101293084" target="_blank" rel="noopener"><strong>101293084</strong></a></div>
         </div>
       </div>
@@ -138,12 +134,13 @@ permalink: /resume.html
         <div class="exp-meta">
           <div class="exp-date">Oct 2013 – May 2015</div>
           <img src="{{ '/assets/images/ksc.png' | relative_url }}" alt="KAUST Solar Center logo" class="exp-logo" />
+          <img src="{{ '/assets/images/BOEING.png' | relative_url }}" alt="Boeing logo" class="exp-logo" />
         </div>
         <div class="exp-details">
           <div class="exp-institute">Intercalated graphite/copper composite material development — Boeing-funded research at KAUST | Thuwal, KSA</div>
           <div class="exp-position">Doctoral researcher / Project contributor</div>
           <div class="exp-group">Research advisors: Prof. Aram Amassian / Dr. Minas Tanielian</div>
-          <div class="exp-description">Contributed advanced spectroscopic and electrical characterization of composite materials to a Boeing-funded industrial research project, primarily during its first year.</div>
+          <div class="exp-description">Developed <strong>intercalated graphite with electrical conductivity exceeding that of copper</strong>, targeting lightweight composite conductor applications.</div>
         </div>
       </div>
 
@@ -156,7 +153,7 @@ permalink: /resume.html
           <div class="exp-institute">Graphene synthesis — Imperial College London | London, UK</div>
           <div class="exp-position">Research intern</div>
           <div class="exp-group">Research advisors: Prof. Norbert Klein / Prof. Cecilia Mattevi</div>
-          <div class="exp-description">Optimized graphene synthesis using chemical vapour deposition and other chemical routes.</div>
+          <div class="exp-description">Investigated and optimized <strong>graphene synthesis using chemical vapour deposition (CVD) and solution-based chemical routes</strong>.</div>
         </div>
       </div>
 
@@ -169,7 +166,7 @@ permalink: /resume.html
           <div class="exp-institute">Ultrathin diamond-like carbon coatings — KAUST | Thuwal, Saudi Arabia</div>
           <div class="exp-position">Graduate researcher — directed research project</div>
           <div class="exp-group">Research advisor: Prof. Aram Amassian</div>
-          <div class="exp-description">Optimized ultrathin diamond-like carbon deposition using filtered cathodic vacuum arc techniques for protective coatings in magnetic data storage.</div>
+          <div class="exp-description">Optimized <strong>ultrathin diamond-like carbon (DLC) deposition using filtered cathodic vacuum arc (FCVA)</strong> for protective coatings in magnetic data-storage applications.</div>
         </div>
       </div>
 
@@ -182,7 +179,7 @@ permalink: /resume.html
           <div class="exp-institute">Natural-pozzolan geopolymers — University of California, Berkeley | Berkeley, USA</div>
           <div class="exp-position">Research intern</div>
           <div class="exp-group">Research advisor: Prof. Paulo Montiero</div>
-          <div class="exp-description">Developed geopolymers containing 80% Saudi natural pozzolan, achieving a strength of 70 MPa for sustainable construction applications.</div>
+          <div class="exp-description">Developed <strong>geopolymers containing 80% Saudi natural pozzolan</strong>, achieving compressive strengths of up to <strong>70 MPa</strong> for sustainable construction materials.</div>
         </div>
       </div>
 
@@ -195,7 +192,7 @@ permalink: /resume.html
           <div class="exp-institute">Concrete formwork-pressure modeling — University of Illinois Urbana-Champaign | Urbana, USA</div>
           <div class="exp-position">Research intern</div>
           <div class="exp-group">Research advisor: Prof. David Lange</div>
-          <div class="exp-description">Modeled formwork pressure during self-consolidating concrete casting as a function of height and time to support large-scale casting applications.</div>
+          <div class="exp-description">Modeled <strong>formwork pressure during self-consolidating concrete (SCC) casting</strong> as a function of height and time to support large-scale casting applications.</div>
         </div>
       </div>
     </section>
